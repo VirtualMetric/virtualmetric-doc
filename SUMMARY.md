@@ -218,14 +218,14 @@
   * [System Health](settings/systems/system-health.md)
   * [Advance Settings](settings/systems/advance-settings.md)
 
-## Virtual Metric Dashboard
+## Dashboard
 
-* [Main Page](virtual-metric-dashboard/main-page.md)
-* [Login](virtual-metric-dashboard/login.md)
-* [Layout and Common Functinalities](virtual-metric-dashboard/layout-and-common-functinalities.md)
-* [Add New Widget](virtual-metric-dashboard/add-new-widget.md)
-* [Edit Widget](virtual-metric-dashboard/edit-widget.md)
-* [Charts](virtual-metric-dashboard/charts.md)
+* [Main Page](dashboard/main-page.md)
+* [Login](dashboard/login.md)
+* [Layout and Common Functinalities](dashboard/layout-and-common-functinalities.md)
+* [Add New Widget](dashboard/add-new-widget.md)
+* [Edit Widget](dashboard/edit-widget.md)
+* [Charts](dashboard/charts.md)
 
 ## Devices
 
