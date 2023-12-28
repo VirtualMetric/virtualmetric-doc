@@ -220,12 +220,12 @@
 
 ## Dashboard
 
-* [Main Page](dashboard/main-page.md)
-* [Login](dashboard/login.md)
-* [Layout and Common Functinalities](dashboard/layout-and-common-functinalities.md)
-* [Add New Widget](dashboard/add-new-widget.md)
-* [Edit Widget](dashboard/edit-widget.md)
-* [Charts](dashboard/charts.md)
+* [Main Page](virtual-metric-dashboard/main-page.md)
+* [Login](virtual-metric-dashboard/login.md)
+* [Layout and Common Functinalities](virtual-metric-dashboard/layout-and-common-functinalities.md)
+* [Add New Widget](virtual-metric-dashboard/add-new-widget.md)
+* [Edit Widget](virtual-metric-dashboard/edit-widget.md)
+* [Charts](virtual-metric-dashboard/charts.md)
 
 ## Devices
 
@@ -240,7 +240,7 @@
 * [VirtualMetric Modules](modules-and-audit/virtualmetric-modules/README.md)
   * [Bare Metal](modules-and-audit/virtualmetric-modules/bare-metal.md)
   * [Microsoft Hyper-V](modules-and-audit/virtualmetric-modules/microsoft-hyper-v.md)
-  * [VMWare](modules-and-audit/virtualmetric-modules/vmware.md)
+  * [VMware](modules-and-audit/virtualmetric-modules/vmware.md)
   * [Microsoft IIS](modules-and-audit/virtualmetric-modules/microsoft-iis.md)
   * [Microsoft SQL](modules-and-audit/virtualmetric-modules/microsoft-sql.md)
   * [Microsoft Storage Spaces](modules-and-audit/virtualmetric-modules/microsoft-storage-spaces.md)

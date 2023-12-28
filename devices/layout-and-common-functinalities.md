@@ -142,4 +142,4 @@ You can search metrics from search field.
 
 </div>
 
-Other common functions can be found from dashboard [common functionalities](../dashboard/layout-and-common-functinalities.md).
+Other common functions can be found from dashboard [common functionalities](../virtual-metric-dashboard/layout-and-common-functinalities.md).

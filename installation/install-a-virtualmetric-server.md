@@ -2,32 +2,23 @@
 
 To install VirtualMetric software, you need to meet the following requirements:
 
-* &#x20;A current **server or virtual machine** with at least **a dual core CPU** and **minimum 4096 MB RAM** memory.
-* &#x20;Windows Server 2016, Windows Server 2019 or later. Only Windows 10 is supported as Client OS.
-* &#x20;We recommend using the operating system **Microsoft Windows Server 2016** for best performance.
-
-To access VirtualMetric Dashboard, you need a web browser. The following browsers are supported:
-
-* &#x20;  Google Chrome 49 or later (recommended)
-* &#x20;  Mozilla Firefox 45 or later
-* &#x20;  Microsoft Edge 14 or later
-* &#x20;  Opera 42 or later
+* A **virtual machine** with at least **4 vCPU** and **minimum 8 GB RAM** memory.
+* Windows Server 2019, Windows Server 2022 or later.
+* 100 GB Hard Disk Drive
 
 To store VirtualMetric Database, you need to meet the following requirements:
 
-* &#x20;**Microsoft SQL Server 2014** or later
-* &#x20;Our setup only supports S**QL Authentication (sa)**. Please contact with support to use Windows Authentication.
-* &#x20;You can use one of the Microsoft SQL Server Editions including Express Edition.
-* &#x20;You can install a new Microsoft SQL Server or you can use an existing one.
-* &#x20;You can also install Microsoft SQL Server on VirtualMetric server.
-
-## **Hardware Requirements**
-
-Hardware requirements for VirtualMetric mainly depend on the modules, intervals and history ranges. The following values are provided as reference for minimum requirements of VirtualMetric.
-
-* Dual Core CPU
-* 4096 MB Memory
+* A **virtual machine** with at least 8 **vCPU** and **minimum 16 GB RAM** memory.
+* Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
 * 100 GB Hard Disk Drive
+* SingleStore Self Managed 8.0 or later / SingleStore Cloud
+
+To access VirtualMetric Dashboard, you need a web browser. The following browsers are supported:
+
+* Google Chrome 49 or later (recommended)
+* Mozilla Firefox 45 or later
+* Microsoft Edge 14 or later
+* Opera 42 or later
 
 {% hint style="info" %}
 When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
