@@ -10,7 +10,8 @@ To store VirtualMetric Database, you need to meet the following requirements:
 
 * A **virtual machine** with at least 8 **vCPU** and **minimum 16 GB RAM** memory.
 * Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
-* 100 GB Hard Disk Drive
+* System Drive: 100 GB Hard Disk Drive for OS and Database Software
+* Data Drive: 100 GB Hard Disk Drive minimum for basic data retention
 * SingleStore Self Managed 8.0 or later / SingleStore Cloud
 
 To access VirtualMetric Dashboard, you need a web browser. The following browsers are supported:
