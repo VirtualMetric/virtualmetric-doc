@@ -21,7 +21,7 @@
 ## Server Pre-Configuration
 
 * [Windows](server-pre-configuration/windows.md)
-* [VMWare](server-pre-configuration/vmware.md)
+* [VMware](server-pre-configuration/vmware.md)
 * [Linux](server-pre-configuration/linux.md)
 * [Bare Metal Hardware](server-pre-configuration/bare-metal-hardware.md)
 
