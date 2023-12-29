@@ -233,7 +233,7 @@
 
 ## Analytics
 
-* [Usage of Analytics](analytics/usage-of-analytics.md)
+* [Layout and Common Functionalities](analytics/layout-and-common-functionalities.md)
 
 ## Modules and Audit
 
