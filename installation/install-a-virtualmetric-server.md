@@ -37,12 +37,16 @@ Hardware requirements for VirtualMetric mainly depend on the modules, intervals 
 When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
 {% endhint %}
 
+***
+
 ## **Software Requirements**
 
 Before installing VirtualMetric on Windows Server, please make sure that you have following components on Windows Server:
 
 * Microsoft PowerShell v4 or later
 * .NET Framework 2.0 or later
+
+***
 
 ## Running Setup Application
 
@@ -152,6 +156,8 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 <figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupFinish.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+***
 
 ## First Time Login
 

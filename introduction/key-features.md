@@ -14,6 +14,8 @@ VirtualMetric can collect important processor, memory, disk and network counters
 Realtime Monitoring uses in-memory database and stores only 90 seconds of monitoring data.
 {% endhint %}
 
+***
+
 ## VirtualMetric Reports
 
 VirtualMetric reports is our new tool which gives you the ability to create custom charts and reports by using our large sets of inventory and performance counters which now has more than 700 sensors. Unlike other products on the market today, VirtualMetric Insight offers the creation of performance charts and custom reports in real time.
@@ -34,17 +36,23 @@ VirtualMetric draws different type of performance counters on the same chart and
 
 </div>
 
+***
+
 ## Log Analysis
 
 VirtualMetric offers collecting the different types logs (custom log, application log, syslog etc.), custom log date parsing, filtering logs by query and showing trends on bar chart.
 
 <figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Log Analysis</p></figcaption></figure>
 
+***
+
 ## Change Tracking
 
 VirtualMetric tracks every single change on your environment to keep you updated about undesired updates. You will never miss any software, hardware, service or configuration updates anymore. VirtualMetric gives you perfect insight on your environment. You can export all changes into CSV, Excel and PDF with specific date range.
 
 <figure><img src="../.gitbook/assets/image (785).png" alt=""><figcaption><p><strong>Configuration Changes Overview</strong></p></figcaption></figure>
+
+***
 
 ## **Network Security**
 
@@ -66,6 +74,8 @@ VirtualMetric logs every TCP connections on your servers to troubleshoot network
 <figure><img src="../.gitbook/assets/image (795).png" alt="" width="375"><figcaption><p> Network Sessions Overview</p></figcaption></figure>
 
 </div>
+
+***
 
 ## Forensic Analysis
 
@@ -89,6 +99,8 @@ VirtualMetric offers many Forensic reports to give you complete visibility on yo
 
 <figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption><p>Forensic Overview</p></figcaption></figure>
 
+***
+
 ## **Windows Defender**
 
 VirtualMetric offers Windows Defender reports to track virus, malware, trojan etc. activities on your servers.
@@ -111,6 +123,8 @@ You can easily track Windows Defender activities via Security Threats reports. V
 * Antimalware, Antispyware, Antivirus and NIS signature last update dates and signature versions.
 * On Access and Real Time Protection status.
 * Pending reboot status.
+
+***
 
 ## Object Access Auditing
 

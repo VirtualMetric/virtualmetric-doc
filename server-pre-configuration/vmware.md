@@ -1,9 +1,11 @@
-# VMWare
+# VMware
 
 Following modules could be used for VMware vSphere monitoring:
 
 * &#x20;  Bare Metal
 * &#x20;  VMware
+
+***
 
 ## **Supported Versions**
 

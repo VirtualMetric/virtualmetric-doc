@@ -22,6 +22,8 @@ After you type your username and password, you can click Login button to enter D
 
 ***
 
+## Language
+
 VirtualMetric Dashboard login page automatically detects your internet browser language and serves you in your internet browser language. After you successfully login, VirtualMetric will use your user language to show Dashboard.
 
 <div align="left">
@@ -33,6 +35,8 @@ VirtualMetric Dashboard login page automatically detects your internet browser l
 You can always set your user language from User Management.
 
 ***
+
+## Logout
 
 To end your VirtualMetric session, you should use logout button on VirtualMetric Dashboard.
 
@@ -53,6 +57,8 @@ Click to your username on the top left to open menu.
 Click to Logout button to log out.
 
 ***
+
+## Password Recovery Request
 
 If you forget your user password, you can request it with your email address.
 

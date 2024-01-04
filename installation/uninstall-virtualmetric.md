@@ -2,7 +2,7 @@
 
 Uninstalling VirtualMetric is easy and works like other Windows-based applications.
 
-1\.      To uninstall VirtualMetric, go to Add / Remove Programs and click Uninstall.
+1\.      To uninstall VirtualMetric, go to **Add / Remove Programs** and click **Uninstall**.
 
 <div align="left">
 
@@ -10,7 +10,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 
 </div>
 
-2\.      Click Yes to start uninstall.
+2\.      Click **Yes** to start uninstall.
 
 <div align="left">
 
@@ -18,7 +18,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 
 </div>
 
-3\.      After uninstall process is completed, click OK to close dialog.
+3\.      After uninstall process is completed, click **OK** to close dialog.
 
 <div align="left">
 
@@ -27,7 +27,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 </div>
 
 {% hint style="info" %}
-Uninstall application does not remove VirtualMetric Database for data security. Please read [Remove VirtualMetric Database](https://dev.virtualmetric.com/Documentation#installation-uninstallvirtualmetric-removevirtualmetricdatabase) to learn how to remove VirtualMetric Database.
+Uninstall application does not remove VirtualMetric Database for data security. Please read [Remove VirtualMetric Database](uninstall-virtualmetric.md#remove-virtualmetric-database) to learn how to remove VirtualMetric Database.
 {% endhint %}
 
 ## **Remove VirtualMetric Database**
@@ -40,7 +40,7 @@ Uninstall application does not remove VirtualMetric Database for data security. 
 
 </div>
 
-2\.      Right click on VIRTUALMETRICDB and select Delete from menu.
+2\.      **Right click** on **VIRTUALMETRICDB** and select **Delete** from menu.
 
 <div align="left">
 
@@ -48,7 +48,7 @@ Uninstall application does not remove VirtualMetric Database for data security. 
 
 </div>
 
-3\.      Click on Close existing connections and click OK to remove VirtualMetric Database.
+3\.      **Click** on **Close existing connections** and click **OK** to remove VirtualMetric Database.
 
 <div align="left">
 

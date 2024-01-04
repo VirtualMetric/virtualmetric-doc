@@ -36,6 +36,8 @@ If VirtualMetric server has Internet access, you can active the product by typin
 
 If your product key is correct, VirtualMetric will connect to activate server and activate your product.
 
+***
+
 ## **Activate Offline**
 
 If VirtualMetric server has no Internet access, you can active the product in offline mode.
@@ -65,6 +67,8 @@ If VirtualMetric server has no Internet access, you can active the product in of
 5\.      Enter your licensing key in License Code **input** and click **Submit** button.
 
 6\.      If your offline license details are correct, VirtualMetric will activate your product in offline mode.
+
+***
 
 ## License Details
 

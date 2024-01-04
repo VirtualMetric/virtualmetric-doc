@@ -1,6 +1,6 @@
 # Update From Previous Versions
 
-If you already have installed a previous VirtualMetric version, there are several things you have to consider before you update to the current VirtualMetric version. Please see section [Hardware Requirements](install-a-virtualmetric-server.md#undefined) and [Software Requirements](https://dev.virtualmetric.com/Documentation#installation-installavirtualmetricserver-softwarerequirements) to see requirements for the current VirtualMetric version.
+If you already have installed a previous VirtualMetric version, there are several things you have to consider before you update to the current VirtualMetric version. Please see section [Hardware Requirements](install-a-virtualmetric-server.md#hardware-requirements) and [Software Requirements](install-a-virtualmetric-server.md#software-requirements) to see requirements for the current VirtualMetric version.
 
 {% hint style="warning" %}
 We recommend that you always have a proper backup of your VirtualMetric Database before update.
@@ -28,7 +28,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 </div>
 
-4\.      Accept the license agreement and click Next.
+4\.      **Accept** the license agreement and click **Next**.
 
 <div align="left">
 
@@ -36,7 +36,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 </div>
 
-5\.      Click Install to start VirtualMetric installation.
+5\.      Click **Install** to start VirtualMetric installation.
 
 <div align="left">
 
@@ -44,7 +44,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 </div>
 
-6\.      Click Finish to close Setup Wizard.
+6\.      Click **Finish** to close Setup Wizard.
 
 <div align="left">
 

@@ -15,7 +15,7 @@ If you are using latest version of VirtualMetric and you need to repair VirtualM
 To repair VirtualMetric files, you can use Update packages of corresponding versions.
 
 {% hint style="info" %}
-Please read [Running Update Application](https://dev.virtualmetric.com/Documentation#installation-updatefrompreviousversions-runningupdateapplication) to learn how to repair your installation.
+Please read [Running Update Application](update-from-previous-versions.md#running-update-application) to learn how to repair your installation.
 {% endhint %}
 
 ***
@@ -27,7 +27,7 @@ If your VirtualMetric installation is not able to access VirtualMetric Database 
 Please try reinstalling update package that you are trying to apply. If the problem still persists, please contact with VirtualMetric support. We recommend that you always have a proper backup of your VirtualMetric Database before update.
 
 {% hint style="info" %}
-Please read [Backup Database](https://dev.virtualmetric.com/Documentation#installation-maintenance-backupdatabase) to learn how to backup your VirtualMetric Database.
+Please read [Backup Database](maintenance.md#backup-database) to learn how to backup your VirtualMetric Database.
 {% endhint %}
 
 ***
@@ -66,7 +66,7 @@ To backup your VirtualMetric Database, first you should connect to your current 
 
 </div>
 
-4\.      Please verify that Backup file is exist under your backup path. You can save this **.bak** file for Restore purposes.
+4\.      Please verify that Backup file is exist under your backup path. You can **save** this **.bak** file for **Restore** purposes.
 
 <div align="left">
 
@@ -84,7 +84,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 </div>
 
-1\.      Right click on **VIRTUALMETRICDB** and select **Tasks -> Take Offline** from menu.
+1\.      **Right click** on **VIRTUALMETRICDB** and select **Tasks -> Take Offline** from menu.
 
 <div align="left">
 
@@ -92,7 +92,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 </div>
 
-2\.      Please make sure that you choose Drop All Active Connections and then click OK to make database offline.
+2\.      Please make sure that you choose Drop All Active Connections and then click **OK** to make database offline.
 
 <div align="left">
 
@@ -116,7 +116,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 </div>
 
-5\.      Please verify that Backup file is exist under your backup path. Click OK to restore database.
+5\.      Please verify that Backup file is exist under your backup path. Click **OK** to restore database.
 
 <div align="left">
 
@@ -147,7 +147,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 To migrate your VirtualMetric Database to another server, first you should have proper backup of VirtualMetric Database.
 
 {% hint style="info" %}
-Please read [Backup Database](https://dev.virtualmetric.com/Documentation#installation-maintenance-backupdatabase) to learn how to backup your VirtualMetric Database.
+Please read [Backup Database](maintenance.md#backup-database) to learn how to backup your VirtualMetric Database.
 {% endhint %}
 
 1\.      To start migration, first you should connect to your current Microsoft SQL Server instance via [ SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL\_Server\_Management\_Studio).
@@ -158,7 +158,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-2\.      Right click on Databases and select **Restore Database..**. from menu.
+2\.      **Right click** on Databases and select **Restore Database..**. from menu.
 
 <div align="left">
 
@@ -174,7 +174,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-4\.      Locate the backup file with .bak extension, then click OK to close dialog.
+4\.      Locate the backup file with **.bak** extension, then click **OK** to close dialog.
 
 <div align="left">
 
@@ -190,7 +190,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-6\.      Click OK to start restoring VirtualMetric Database.
+6\.      Click **OK** to start restoring VirtualMetric Database.
 
 <div align="left">
 
@@ -198,7 +198,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-7\.      Click OK to close restoration dialog.
+7\.      Click **OK** to close restoration dialog.
 
 <div align="left">
 
@@ -206,7 +206,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-8\.      After this operation, your VirtualMetric Database will be restored and online for operations.
+8\.      After this operation, your VirtualMetric Database will be **restored** and online for operations.
 
 <div align="left">
 
@@ -214,7 +214,7 @@ Please read [Backup Database](https://dev.virtualmetric.com/Documentation#instal
 
 </div>
 
-9\.      When you change VirtualMetric Database settings, you should also modify following files:
+9\.      When you **change** VirtualMetric Database settings, you **should also modify** following files:
 
 ```markup
 C:\Program Files\VirtualMetric\API\Web.config
@@ -237,7 +237,7 @@ password={SA Password}; // SQL User Password
 ```
 
 \
-10\.      After changing config files, you should only restart VirtualMetric SQL Jobs scheduled task. Please open Task Scheduler on VirtualMetric Standalone Server.
+10\.      After changing config files, you should only **restart** VirtualMetric SQL Jobs scheduled task. Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -283,7 +283,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 </div>
 
-1\.      Navigate to current SQL user via Security -> Logins on left menu.
+1\.      Navigate to **current SQL user** via **Security -> Logins** on left menu.
 
 <div align="left">
 
@@ -291,7 +291,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 </div>
 
-2\.      Right click to SQL User and then click Properties on menu.
+2\.      **Right click** to SQL User and then **click Properties** on menu.
 
 <div align="left">
 
@@ -299,7 +299,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 </div>
 
-3\.      Type new password and click OK to apply changes.
+3\.      Type new **password** and click **OK** to apply changes.
 
 <div align="left">
 
@@ -329,7 +329,7 @@ user id=sa; // SQL Username
 password={SA Password}; // SQL User Password
 ```
 
-5\.      After changing config files, you should only restart VirtualMetric SQL Jobs scheduled task. Please open Task Scheduler on VirtualMetric Standalone Server.
+5\.      After changing config files, you should only **restart** VirtualMetric SQL Jobs scheduled task. Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -337,7 +337,7 @@ password={SA Password}; // SQL User Password
 
 </div>
 
-6\.      Right click on VirtualMetric SQL Jobs and click End from menu.
+6\.      **Right click** on VirtualMetric SQL Jobs and click **End** from menu.
 
 <div align="left">
 
@@ -345,7 +345,7 @@ password={SA Password}; // SQL User Password
 
 </div>
 
-7\.      Click Yes to confirm dialog.
+7\.      Click **Yes** to confirm dialog.
 
 <div align="left">
 
@@ -353,7 +353,7 @@ password={SA Password}; // SQL User Password
 
 </div>
 
-8\.      Wait for a few seconds. Then right click on VirtualMetric SQL Jobs and click Start from menu.
+8\.      Wait for a few seconds. Then **right click** on VirtualMetric SQL Jobs and click **Run** from menu.
 
 <div align="left">
 
@@ -363,18 +363,18 @@ password={SA Password}; // SQL User Password
 
 9\.      Now, you can continue using VirtualMetric after these operations.
 
+***
+
 ## Change Trigger Configuration
 
-If you need to change following options of the VirtualMetric Trigger:\
-
+If you need to change following options of the VirtualMetric Trigger:
 
 * &#x20;  VirtualMetric API Address
 * &#x20;  Trigger Identifier
 * &#x20;  API Username
 * &#x20;  API Token
 
-\
-1\.      You should modify the VirtualMetric Trigger config file:
+1\.      You should **modify** the **VirtualMetric Trigger config file**:
 
 ```markup
 C:\Program Files\VirtualMetric\Trigger\VirtualMetricTrigger.exe.config
@@ -392,7 +392,7 @@ On the config file, you will see following lines:
 </appSettings>
 ```
 
-2\.      After changing these Trigger options, you should restart VirtualMetric Trigger scheduled task. Please open Task Scheduler on VirtualMetric Standalone Server.
+2\.      After changing these Trigger options, you should **restart** VirtualMetric **Trigger** scheduled task. Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -400,7 +400,7 @@ On the config file, you will see following lines:
 
 </div>
 
-3\.      Right click on VirtualMetric SQL Jobs and click End from menu.
+3\.      Right click on **VirtualMetric SQL Jobs** and click **End** from menu.
 
 <div align="left">
 
@@ -408,7 +408,7 @@ On the config file, you will see following lines:
 
 </div>
 
-4\.      Click Yes to confirm dialog.
+4\.      Click **Yes** to confirm dialog.
 
 <div align="left">
 
@@ -416,7 +416,7 @@ On the config file, you will see following lines:
 
 </div>
 
-5\.      Wait for a few seconds. Then right click on VirtualMetric SQL Jobs and click Start from menu.
+5\.      Wait for a few seconds. Then **right click** on VirtualMetric SQL Jobs and click **Run** from menu.
 
 <div align="left">
 
@@ -427,20 +427,20 @@ On the config file, you will see following lines:
 6\.      VirtualMetric Trigger will connect to VirtualMetric API and start monitoring in a few seconds.
 
 {% hint style="info" %}
-Please read [Install a VirtualMetric Trigger](https://dev.virtualmetric.com/Documentation#installation-highavailabilitycomponents-installavirtualmetrictrigger) to learn more about Trigger Options.
+Please read [Install a VirtualMetric Trigger](high-availability-components.md#install-a-virtualmetric-trigger) to learn more about Trigger Options.
 {% endhint %}
 
 ***
 
 ## Reset Admin Password
 
-If you forget the admin username/password of VirtualMetric Dashboard, you have following options:
+If you **forget** the admin **username/password** of VirtualMetric Dashboard, you have following options:
 
 * Password recovery request on VirtualMetric Dashboard
 * Changing directly from VirtualMetric Database
 
 {% hint style="info" %}
-Please read [Password Recovery Request](https://dev.virtualmetric.com/Documentation#virtualmetricdashboard-login-passwordrecoveryrequest) to learn how to reset your password via VirtualMetric Dashboard.
+Please read [Password Recovery Request](../virtual-metric-dashboard/login.md#password-recovery-request) to learn how to reset your password via VirtualMetric Dashboard.
 {% endhint %}
 
 1\.      To change admin password from VirtualMetric Database, first you should connect to your current Microsoft SQL Server instance via [ SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL\_Server\_Management\_Studio).
@@ -451,7 +451,7 @@ Please read [Password Recovery Request](https://dev.virtualmetric.com/Documentat
 
 </div>
 
-2\.      Navigate to dbo.SystemUser table via VIRTUALMETRICDB -> Tables on left menu.
+2\.      Navigate to **dbo.SystemUser** table via **VIRTUALMETRICDB -> Tables** on left menu.
 
 <div align="left">
 
@@ -459,7 +459,7 @@ Please read [Password Recovery Request](https://dev.virtualmetric.com/Documentat
 
 </div>
 
-3\.      Right click on dbo.SystemUser and click Edit Top 200 Rows on menu.
+3\.      **Right click** on **dbo.SystemUser** and **click Edit Top 200 Rows** on menu.
 
 <div align="left">
 
@@ -467,7 +467,7 @@ Please read [Password Recovery Request](https://dev.virtualmetric.com/Documentat
 
 </div>
 
-4\.      Find the user that you want to change password and navigate to Password field.
+4\.      **Find the user** that you want to **change password** and navigate to **Password field**.
 
 <figure><img src="../.gitbook/assets/image (821).png" alt=""><figcaption></figcaption></figure>
 
@@ -482,13 +482,13 @@ $UTF8 = New-Object -TypeName System.Text.UTF8Encoding
 ```
 {% endcode %}
 
-6\.      You can replace new MD5 hash with old one on VirtualMetric Database.
+6\.      You can **replace** new MD5 hash with old one on VirtualMetric Database.
 
 {% hint style="warning" %}
 You must restart application pool of VirtualMetric API via IIS Manager to apply password reset.
 {% endhint %}
 
-7\.      Please open IIS Manager on VirtualMetric Standalone Server.
+7\.      Please open **IIS Manager** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -496,7 +496,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 </div>
 
-8\.      Click to Application Pools on left menu.
+8\.      Click to **Application Pools** on left menu.
 
 <div align="left">
 
@@ -504,7 +504,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 </div>
 
-9\.      Right click on VirtualMetric API and then click Recycle... to restart the application pool.
+9\.      Right click on **VirtualMetric API** and then **click** **Recycle**... to restart the application pool.
 
 <div align="left">
 
@@ -520,7 +520,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 To make VirtualMetric Dashboard and VirtualMetric API connections secure, you can use SSL certificate. You can use IIS Manager to apply SSL certificates for both websites.
 
-1\.      Please open IIS Manager on VirtualMetric Standalone Server.
+1\.      Please open **IIS Manager** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -528,7 +528,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-2\.      Click to Server Certificates to create certificate request.
+2\.      Click to **Server Certificates** to create certificate request.
 
 <div align="left">
 
@@ -536,7 +536,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-3\.      Click Create Certificate Request on right menu.
+3\.      **Click** **Create Certificate Request** on right menu.
 
 <div align="left">
 
@@ -544,7 +544,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-4\.      Fill your Certificate Request and click Next to continue.
+4\.      **Fill** your **Certificate Request** and click **Next** to continue.
 
 <div align="left">
 
@@ -552,7 +552,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-5\.      Set crypto settings and click Next to continue.
+5\.     **Set crypto settings** and click **Next** to continue.
 
 <div align="left">
 
@@ -560,7 +560,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-6\.      Set a path for request and click Finish to complete cert request.
+6\.      **Set** a **path** for request and **click Finish** to complete cert request.
 
 <div align="left">
 
@@ -568,7 +568,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-7\.      Use your cert request to purchase a commercial SSL. After you get your .cer file, click Complete Certificate Request... to continue.
+7\.      Use your cert request to purchase a commercial SSL. After you get your .cer file, **click Complete Certificate Request...** to continue.
 
 <div align="left">
 
@@ -576,7 +576,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-8\.      Specify .cer file, fill inputs and click OK to complete certificate process.
+8\.      Specify .cer file, fill inputs and **click OK** to complete certificate process.
 
 <div align="left">
 
@@ -584,7 +584,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-9\.      Click to VirtualMetric API on left menu.
+9\.     **Click** to **VirtualMetric API** on left menu.
 
 <div align="left">
 
@@ -592,7 +592,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-10\.      Click to Bindings... on right menu.
+10\.      **Click** to **Bindings**... on right menu.
 
 <div align="left">
 
@@ -600,7 +600,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-11\.      Click to Add... on right menu.
+11\.      **Click** to **Add...** on right menu.
 
 <div align="left">
 
@@ -608,7 +608,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-12\.      Fill Bindings inputs and click OK to complete.
+12\.      Fill **Bindings** inputs and click **OK** to complete.
 
 <div align="left">
 
@@ -616,16 +616,15 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 </div>
 
-13\.      Click to Close to close dialog.
+13\.      Click to **Close** to close dialog.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (837).png" alt="" width="495"><figcaption></figcaption></figure>
 
 </div>
 
-14\.      When you change VirtualMetric API SSL settings, you should also modify following files:\
-
+14\.      When you change **VirtualMetric API SSL** settings, you should also **modify** following files:
 
 ```markup
 C:\Program Files\VirtualMetric\HealthCheck\VirtualMetricHealthCheck.exe.config
@@ -634,9 +633,7 @@ C:\Program Files\VirtualMetric\Trigger\VirtualMetricTrigger.exe.config
 C:\Program Files\VirtualMetric\ControlPanel\Web.config
 ```
 
-\
-On these files, you should change VirtualMetric API address lines with new address:\
-
+On these files, you should change VirtualMetric API address lines with new address:
 
 ```csharp
 <appSettings>
@@ -649,8 +646,8 @@ On these files, you should change VirtualMetric API address lines with new addre
 ```
 
 \
-15\.      After changing config files, you should only restart VirtualMetric Trigger scheduled task.\
-Please open Task Scheduler on VirtualMetric Standalone Server.
+15\.      After changing config files, you should only **restart VirtualMetric Trigger** scheduled task.\
+Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -658,7 +655,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 </div>
 
-16\.      Right click on VirtualMetric Trigger and click End from menu.
+16\.      **Right click** on **VirtualMetric Trigger** and click **End** from menu.
 
 <div align="left">
 
@@ -666,7 +663,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 </div>
 
-17\.      Click Yes to confirm dialog.
+17\.      Click **Yes** to confirm dialog.
 
 <div align="left">
 
@@ -674,7 +671,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 </div>
 
-18\.      Wait for a few seconds. Then right click on VirtualMetric Trigger and click Start from menu.
+18\.      Wait for a few seconds. Then **right click on VirtualMetric Trigger** and click **Run** from menu.
 
 <div align="left">
 
@@ -697,7 +694,7 @@ C:\Program Files\VirtualMetric\API\Web.config
 On the .config file, you can change connection strings to use a different VirtualMetric Database instance.
 
 {% hint style="info" %}
-Please read [Install a VirtualMetric API](https://dev.virtualmetric.com/Documentation#installation-highavailabilitycomponents-installavirtualmetricapi) to learn more about API Options.
+Please read [Install a VirtualMetric API](high-availability-components.md#install-a-virtualmetric-api) to learn more about API Options.
 {% endhint %}
 
 ***
@@ -750,7 +747,7 @@ If external address is not resolved by VirtualMetric Server's DNS, then you shou
 
 Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the default value of IIS application pool. If you want to increase session timeout, you can use IIS Manager to modify timeout.
 
-1\.      Please open IIS Manager on VirtualMetric Standalone Server.
+1\.      Please **open IIS Manager** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -758,7 +755,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 </div>
 
-2\.      Click to Application Pools on the left menu.
+2\.      **Click** to **Application Pools** on the left menu. You will see Application Pools for **VirtualMetric Dashboard** and **VirtualMetric API**.
 
 <div align="left">
 
@@ -766,7 +763,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 </div>
 
-3\.      You will see Application Pools for VirtualMetric Dashboard and VirtualMetric API.
+3\.      **Right click** on **VirtualMetric ControlPanel** and select Advanced Settings to open timeout settings.
 
 <div align="left">
 
@@ -774,7 +771,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 </div>
 
-4\.      Right click on VirtualMetric ControlPanel and select Advanced Settings to open timeout settings.
+4\.      Set **0** for **Idle Time-out (minutes)** to disable timeout or select another timeout value. You can also set timeout value for VirtualMetric API with same steps.
 
 <div align="left">
 
@@ -782,15 +779,13 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 </div>
 
-5\.      Set 0 for Idle Time-out (minutes) to disable timeout or select another timeout value. You can also set timeout value for VirtualMetric API with same steps.
-
 ***
 
 ## **Configure Redis Distributed Cache**
 
 If you want to use VirtualMetric API in HA mode, you should also configure VirtualMetric APIs to use Redis Distributed Cache. You need to set your Redis connection string into VirtualMetric API web.config.\
 \
-1\.      Add your Redis connection string into VirtualMetric API configuration file as following:
+1\.      Add your **Redis connection string** into **VirtualMetric API** configuration file as following:
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```csharp
@@ -800,7 +795,7 @@ If you want to use VirtualMetric API in HA mode, you should also configure Virtu
 ```
 {% endcode %}
 
-2\.      After that, you should activate Redis Caching via VirtualMetric Advanced System Settings.\
+2\.      After that, you should **activate** Redis Caching via **VirtualMetric Advanced System Settings**.\
 For security reasons Redis Default Listening interface is bind to "127.0.0.1".\
 \
 To enable Redis on Server IP address, you need to edit the following line in your Redis Configuration files:
@@ -813,7 +808,7 @@ bind {IPAddress}
 Redis is not optimized for maximum security but for maximum performance and simplicity. For this reason you should not expose the Redis instance directly to the internet and restrict access to Redis port from untrusted network with ACLs.
 {% endhint %}
 
-3\.      We also recommend you to enable Redis password in your configuration files:
+3\.      We also recommend you to **enable Redis password** in your configuration files:
 
 ```csharp
 requirepass {password}
@@ -830,7 +825,7 @@ slaveof {MasterServerIPAddress} 6379
 masterauth {password}
 ```
 
-5\.      After changes, you should activate Redis from System Advanced Configuration. Find the "Cache Provider" option in the System Advanced Settings.
+5\.      After changes, you should activate Redis from System Advanced Configuration. Find the "**Cache Provider"** option in the **System Advanced Settings**.
 
 <div align="left">
 
@@ -838,7 +833,7 @@ masterauth {password}
 
 </div>
 
-6\.      Change "Cache Provider" option as Redis and click Submit button.
+6\.      Change **"Cache Provider"** option as **Redis** and click **Submit** button.
 
 <div align="left">
 
@@ -850,7 +845,7 @@ masterauth {password}
 You must restart application pool of VirtualMetric API via IIS Manager to apply cache provider changes.
 {% endhint %}
 
-7\.      Please open IIS Manager on VirtualMetric Standalone Server.
+7\.      Please **open** **IIS Manager** on VirtualMetric Standalone Server.
 
 <div align="left">
 
@@ -858,7 +853,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 </div>
 
-8\.      Click to Application Pools on left menu.
+8\.      **Click** to **Application Pools** on left menu.
 
 <div align="left">
 
@@ -866,7 +861,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 </div>
 
-9\.      Right click on VirtualMetric API and then click Recycle... to restart the application pool.
+9\.      **Right click** on **VirtualMetric API** and then **click Recycle**... to restart the application pool.
 
 <div align="left">
 
@@ -882,15 +877,15 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 We recommend you to configure following Microsoft SQL Server optimizations to get the best performance.
 
-1\.      Click Properties of the server in the SQL Server Management Studio.
+1\.      **Click Properties** of the server in the SQL Server Management Studio.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt="" width="372"><figcaption></figcaption></figure>
 
 </div>
 
-2\.      Click on Advanced tab and set following options:
+2\.      Click on **Advanced tab** and set following options:
 
 * &#x20;  Miscellaneous > Optimize for Ad hoc Workloads: True
 * &#x20;  Parallelism > Cost Threshold for Parallelism: 50
@@ -902,7 +897,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 </div>
 
-3\.      Click on Memory tab and set following options.
+3\.      Click on **Memory tab** and set following options.
 
 * &#x20;  Minimum server in memory (in MB): 0
 * &#x20;  Maximum server in memory (in MB): 4096 (Calculate this based on your server memory)
@@ -913,7 +908,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 </div>
 
-4\.      Click on Processor tab and set following options.
+4\.      Click on **Processor tab** and set following options.
 
 * &#x20;  Maximum worker threads: 0
 

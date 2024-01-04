@@ -131,7 +131,7 @@ Hardware requirements for VirtualMetric depends on total number of monitored obj
 
 If you use proxy configuration on Windows Server, you may need to add exception for VirtualMetric.
 
-1\.      Go to Notification Center and click All Settings.
+1\.      Go to **Notification Center** and click **All Settings**.
 
 <div align="left">
 
@@ -139,7 +139,7 @@ If you use proxy configuration on Windows Server, you may need to add exception 
 
 </div>
 
-2\.      To edit proxy exception list, click to Proxy and type your VirtualMetric API address. After changes, click Save button to apply changes.
+2\.      To edit proxy exception list, click to **Proxy** and type your **VirtualMetric API address**. After changes, click **Save** button to apply changes.
 
 <div align="left">
 

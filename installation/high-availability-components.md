@@ -42,7 +42,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 </div>
 
-3\.      Accept the license agreement and click Next.
+3\.      **Accept** the license agreement and click **Next**.
 
 <div align="left">
 
@@ -50,7 +50,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 </div>
 
-4\.      In this step, you will configure VirtualMetric API settings. After filling the required fields, click next.
+4\.      In this step, you will configure VirtualMetric API settings. After filling the **required fields**, click N**ext**.
 
 <div align="left">
 
@@ -67,10 +67,10 @@ VirtualMetric API address should be reachable by all servers. Please visit [Fire
 {% endhint %}
 
 {% hint style="info" %}
-If you want to secure VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](https://dev.virtualmetric.com/Documentation#installation-maintenance-setupsslcertificate) section.
+If you want to secure VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
 {% endhint %}
 
-5\.      In this step, you will configure VirtualMetric Database settings. After filling the required fields, click **next**.
+5\.      In this step, you will configure VirtualMetric Database settings. After filling the required fields, click **Next**.
 
 * &#x20;  You should enter your Microsoft SQL Server Instance information and User information in this step.
 * &#x20;  Our setup supports Windows and SQL Authentication methods.
@@ -81,7 +81,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 </div>
 
-6\.      Review setup location and click Next.
+6\.      Review setup location and click **Next**.
 
 <div align="left">
 
@@ -89,7 +89,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 </div>
 
-7\.      Click Install to start VirtualMetric installation.
+7\.      Click **Install** to start VirtualMetric installation.
 
 <div align="left">
 
@@ -97,7 +97,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 </div>
 
-8\.      Click Finish to close Setup Wizard.
+8\.      Click **Finish** to close Setup Wizard.
 
 <div align="left">
 
@@ -129,7 +129,7 @@ For information about setting up an entry on Load Balancer, please contact with 
 
 Installing VirtualMetric Dashboard is easy and works like other Windows-based applications. To install VirtualMetric Dashboard, run the installation setup program that you have downloaded.
 
-1\.      Confirm the question of the Windows User Account Control with Yes to allow the program to install. The VirtualMetric Dashboard installation dialog will guide you through the installation process.
+1\.      Confirm the question of the Windows User Account Control with **Yes** to allow the program to install. The VirtualMetric Dashboard installation dialog will guide you through the installation process.
 
 <div align="left">
 
@@ -137,7 +137,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 </div>
 
-2\.      You will see Welcome Screen. Please click Next to continue.
+2\.      You will see Welcome Screen. Please click **Next** to continue.
 
 <div align="left">
 
@@ -145,7 +145,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 </div>
 
-3\.      Accept the license agreement and click Next.
+3\.      **Accept** the license agreement and click **Next**.
 
 <div align="left">
 
@@ -162,10 +162,10 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 </div>
 
 {% hint style="info" %}
-If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](https://dev.virtualmetric.com/Documentation#installation-maintenance-setupsslcertificate) section.
+If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
 {% endhint %}
 
-5\.      Review setup location and click Next.
+5\.      **Review** setup location and click **Next**.
 
 <div align="left">
 
@@ -173,7 +173,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-6\.      Click Install to start VirtualMetric installation.
+6\.      Click **Install** to start VirtualMetric installation.
 
 <div align="left">
 
@@ -181,7 +181,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-7\.      Click Finish to close Setup Wizard.
+7\.      Click **Finish** to close Setup Wizard.
 
 <div align="left">
 
@@ -204,7 +204,7 @@ VirtualMetric Database uses Microsoft SQL Server for the database role. You can 
 If you want to install a SQL Server AlwaysOn cluster, please contact with Microsoft support. If you already have a SQL Server AlwaysOn cluster, you can migrate VirtualMetric Database on it.
 
 {% hint style="info" %}
-To migrate your current VirtualMetric Database to a SQL Server AlwaysOn instance, please visit [Migrate Database](https://dev.virtualmetric.com/Documentation#installation-maintenance-migratedatabase) section.
+To migrate your current VirtualMetric Database to a SQL Server AlwaysOn instance, please visit [Migrate Database](maintenance.md#migrate-database) section.
 {% endhint %}
 
 ***
@@ -221,7 +221,7 @@ VirtualMetric Trigger (aka VirtualMetric Collector) is the main component to con
 
 Before installing VirtualMetric Trigger, you should create a new Trigger entry on VirtualMetric Settings Page.
 
-1\.      Go to **Settings** and then Click to Devices, then you will see Triggers option.
+1\.      Go to **Settings** and then **Click** to Devices, then you will see **Triggers** option.
 
 <div align="left">
 
@@ -233,7 +233,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-3\.      Enter a **Trigger name** and **description**, select **visibility** then click **Submit** button.,
+3\.      Enter a **Trigger name** and **description**, select **visibility** then click **Submit** button.
 
 <div align="left">
 
@@ -241,11 +241,11 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 </div>
 
-4\.      Write down the Trigger Identifier. You will need that when you install VirtualMetric Trigger.
+4\.      Write down the **Trigger Identifier**. You will **need that when you install VirtualMetric Trigger**.
 
 <figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-5\.      Click to Users on the left pane.
+5\.      Click to **API** **Users** on the left pane.
 
 <div align="left">
 
@@ -253,13 +253,13 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 </div>
 
-6\.      Write down your API Username and API Token. You will need that when you install VirtualMetric Trigger.
+6\.      Write down your **API Username** and **API Token**. You will **need that when you install VirtualMetric Trigger**.
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 7\.      Installing VirtualMetric Trigger is easy and works like other Windows-based applications. To install VirtualMetric Trigger, run the installation setup program that you have downloaded.
 
-8\.      Confirm the question of the Windows User Account Control with Yes to allow the program to install. The VirtualMetric Trigger installation dialog will guide you through the installation process.
+8\.      Confirm the question of the Windows User Account Control with **Yes** to allow the program to install. The VirtualMetric Trigger installation dialog will guide you through the installation process.
 
 <div align="left">
 
@@ -267,7 +267,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 </div>
 
-9\.      You will see Welcome Screen. Please click Next to continue.
+9\.      You will see Welcome Screen. Please click **Next** to continue.
 
 <div align="left">
 
@@ -275,7 +275,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 </div>
 
-10\.      Accept the license agreement and click Next.
+10\.      Accept the license agreement and click **Next**.
 
 <div align="left">
 
@@ -298,12 +298,12 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 </div>
 
 {% hint style="info" %}
-If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](https://dev.virtualmetric.com/Documentation#installation-maintenance-setupsslcertificate) section.
+If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
 {% endhint %}
 
-12\.      In this step, you can enable Active Directory authentication for VirtualMetric Trigger. Please click Next to continue.
+12\.      In this step, you can enable Active Directory authentication for VirtualMetric Trigger. Please click **Next** to continue.
 
-* &#x20;  VirtualMetric uses scheduled task jobs for VirtualMetric Trigger. This user should also have administrator privileges on the local server. If you provide a domain user with necessary privileges on target servers, VirtualMetric will use this user to monitor servers. Please see [User Permissions](https://dev.virtualmetric.com/Documentation#virtualmetricmodules-baremetal-userpermissions) section for required privileges.
+* &#x20;  VirtualMetric uses scheduled task jobs for VirtualMetric Trigger. This user should also have administrator privileges on the local server. If you provide a domain user with necessary privileges on target servers, VirtualMetric will use this user to monitor servers. Please see [User Permissions](../modules-and-audit/virtualmetric-modules/bare-metal.md#windows-user-permissions) section for required privileges.
 * &#x20;  If you want to use a domain user, please type its username as Domain\Username. User credentials will be used during setup to create VirtualMetric Trigger job and will not be stored anywhere.
 
 <div align="left">
@@ -312,7 +312,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-13\.      Review setup location and click Next.
+13\.      **Review** setup location and click **Next**.
 
 <div align="left">
 
@@ -320,7 +320,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-14\.      Click Install to start VirtualMetric installation.
+14\.      Click **Install** to start VirtualMetric installation.
 
 <div align="left">
 
@@ -328,7 +328,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-15\.      Click Finish to close Setup Wizard.
+15\.      Click **Finish** to close Setup Wizard.
 
 <div align="left">
 
