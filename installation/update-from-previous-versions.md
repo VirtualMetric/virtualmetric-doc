@@ -1,6 +1,6 @@
 # Update From Previous Versions
 
-If you already have installed a previous VirtualMetric version, there are several things you have to consider before you update to the current VirtualMetric version. Please see section [Hardware Requirements](https://dev.virtualmetric.com/Documentation#installation-installavirtualmetricserver-hardwarerequirements) and [Software Requirements](https://dev.virtualmetric.com/Documentation#installation-installavirtualmetricserver-softwarerequirements) to see requirements for the current VirtualMetric version.
+If you already have installed a previous VirtualMetric version, there are several things you have to consider before you update to the current VirtualMetric version. Please see section [Hardware Requirements](install-a-virtualmetric-server.md#undefined) and [Software Requirements](https://dev.virtualmetric.com/Documentation#installation-installavirtualmetricserver-softwarerequirements) to see requirements for the current VirtualMetric version.
 
 {% hint style="warning" %}
 We recommend that you always have a proper backup of your VirtualMetric Database before update.

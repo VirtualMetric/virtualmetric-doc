@@ -3,15 +3,15 @@
 To install VirtualMetric software, you need to meet the following requirements:
 
 * A **virtual machine** with at least **4 vCPU** and **minimum 8 GB RAM** memory.
-* Windows Server 2019, Windows Server 2022 or later.
-* 100 GB Hard Disk Drive
+* Windows Server **2019**, Windows Server 2022 or later.
+* **100 GB Hard Disk Drive**
 
 To store VirtualMetric Database, you need to meet the following requirements:
 
-* A **virtual machine** with at least 8 **vCPU** and **minimum 16 GB RAM** memory.
+* A **virtual machine** with at least **8 vCPU** and **minimum 16 GB RAM** memory.
 * Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
-* System Drive: 100 GB Hard Disk Drive for OS and Database Software
-* Data Drive: 100 GB Hard Disk Drive minimum for basic data retention
+* System Drive: **100 GB** Hard Disk Drive for OS and Database Software
+* Data Drive: **100 GB** Hard Disk Drive minimum for basic data retention
 * SingleStore Self Managed 8.0 or later / SingleStore Cloud
 
 To access VirtualMetric Dashboard, you need a web browser. The following browsers are supported:
@@ -20,6 +20,18 @@ To access VirtualMetric Dashboard, you need a web browser. The following browser
 * Mozilla Firefox 45 or later
 * Microsoft Edge 14 or later
 * Opera 42 or later
+
+{% hint style="info" %}
+When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
+{% endhint %}
+
+## **Hardware Requirements**
+
+Hardware requirements for VirtualMetric mainly depend on the modules, intervals and history ranges. The following values are provided as reference for minimum requirements of VirtualMetric.
+
+* Dual Core CPU
+* 4096 MB Memory
+* 100 GB Hard Disk Drive
 
 {% hint style="info" %}
 When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
@@ -52,7 +64,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 </div>
 
-3\.      Accept the license agreement and click Next.
+3\.      Accept the license agreement and click **Next**.
 
 <div align="left">
 
@@ -60,7 +72,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 </div>
 
-4\.      In this step, you will configure VirtualMetric API settings. After filling the required fields, click next.
+4\.      In this step, you will configure VirtualMetric API settings. After filling the **required fields**, click N**ext**.
 
 <div align="left">
 
@@ -76,18 +88,17 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 VirtualMetric API address should be reachable by all servers. Please visit [Firewall Configuration](../introduction/product-security.md#required-firewall-ports) section to make sure.
 {% endhint %}
 
-6\.      In this step, you will configure VirtualMetric Dashboard settings. After filling the required fields, click next.
+5\.      In this step, you will configure VirtualMetric Dashboard settings. After filling the required fields, click **Next**.
 
 * Setup will enter VirtualMetric API address automatically. Clients will use this VirtualMetric API address when they connect to VirtualMetric Dashboard. If VirtualMetric API is in private network, you should type external address of VirtualMetric API here. Otherwise Clients will not be able to login dashboard due to unreachable network.
-* Setup will require you to type a user name and password. You will use this username and password to login dashboard for the first time. Password must be at least 6 characters long.\
-
+* Setup will require you to type a user name and password. You will use this username and password to login dashboard for the first time. Password must be at least 6 characters long.
 
 {% hint style="info" %}
 Please write down your user name and password. Setup will not remind you at the end.
 {% endhint %}
 
 {% hint style="warning" %}
-If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](https://cloud.virtualmetric.com/Documentation#installation-maintenance-setupsslcertificate) section.
+If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
 {% endhint %}
 
 <div align="left">
@@ -96,9 +107,9 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-6\.      In this step, you can enable Active Directory authentication for VirtualMetric Trigger. After filling the required fields, click next.
+6\.      In this step, you can enable Active Directory authentication for VirtualMetric Trigger. After filling the required fields, click **Next**.
 
-* VirtualMetric uses scheduled task jobs for VirtualMetric Trigger. This user should also have administrator privileges on the local server. If you provide a domain user with necessary privileges on target servers, VirtualMetric will use this user to monitor servers. Please see [User Permissions](https://cloud.virtualmetric.com/Documentation#virtualmetricmodules-baremetal-userpermissions) section for required privileges.
+* VirtualMetric uses scheduled task jobs for VirtualMetric Trigger. This user should also have administrator privileges on the local server. If you provide a domain user with necessary privileges on target servers, VirtualMetric will use this user to monitor servers. Please see [User Permissions](../modules-and-audit/virtualmetric-modules/bare-metal.md#windows-user-permissions) section for required privileges.
 * If you want to use a domain user, please type its username as Domain\Username. User credentials will be used during setup to create VirtualMetric Trigger job and will not be stored anywhere.
 
 <div align="left">
@@ -107,7 +118,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-7\.      In this step, you will configure VirtualMetric Database settings. After filling the required fields, click next.
+7\.      In this step, you will configure VirtualMetric Database settings. After filling the required fields, click **Next**.
 
 * You should enter your Microsoft SQL Server Instance information and User information in this step.
 * Our setup supports Windows and SQL Authentication methods.
@@ -118,7 +129,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-8\.      Review setup location and click Next.
+8\.      Review **setup location** and click **Next**.
 
 <div align="left">
 
@@ -126,7 +137,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-8\.      Click Install to start VirtualMetric installation.
+9\.      Click **Install** to start VirtualMetric installation.
 
 <div align="left">
 
@@ -134,7 +145,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 </div>
 
-9\.      Click Finish to close Setup Wizard.
+10\.      Click **Finish** to close Setup Wizard.
 
 <div align="left">
 
@@ -144,7 +155,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 ## First Time Login
 
-Once the VirtualMetric is installed, you can log in to the web interface In your browser and enter the IP address or DNS name of the computer where VirtualMetric is installed.\
+Once the VirtualMetric is installed, you can log in to the web interface In your browser and enter the **IP address** or **DNS name** of the computer where VirtualMetric is installed.\
 \
 If you are logged on VirtualMetric server, you can use following address.
 
@@ -152,8 +163,7 @@ If you are logged on VirtualMetric server, you can use following address.
 http://localhost
 ```
 
-\
-After loading the VirtualMetric Dashboard, you will see following login screen. You can log in using the username and password that you provided on Setup Wizard. After you type your username and password, click to Login button to log in.
+After loading the VirtualMetric Dashboard, you will see following login screen. You can log in using the username and password that you provided on Setup Wizard. After you type your **username** and **password**, click to **Login** button to log in.
 
 <div align="left">
 

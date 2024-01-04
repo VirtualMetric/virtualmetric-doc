@@ -26,7 +26,7 @@ If VirtualMetric server has Internet access, you can active the product by typin
 
 <figure><img src="../.gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
 
-2\.      You will see a modal window to type your license key.
+2\.      You will see a modal window to **type** your **license key**.
 
 <div align="left">
 
@@ -40,11 +40,11 @@ If your product key is correct, VirtualMetric will connect to activate server an
 
 If VirtualMetric server has no Internet access, you can active the product in offline mode.
 
-1\.      On licensing page, click Add (+) button on the right top section.
+1\.      On licensing page, click **Add (+)** button on the right top section.
 
 <figure><img src="../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
 
-2\.      You will see a modal window to type your license key.
+2\.      You will see a modal window to **type** your **license key**.
 
 <div align="left">
 
@@ -52,7 +52,7 @@ If VirtualMetric server has no Internet access, you can active the product in of
 
 </div>
 
-3\.      Copy Unique Key value and send it to your customer representative.
+3\.      **Copy Unique Key** value and **send** it to your customer representative.
 
 <div align="left">
 

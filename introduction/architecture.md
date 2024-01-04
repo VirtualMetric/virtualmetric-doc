@@ -6,23 +6,23 @@ All VirtualMetric components work on Windows platform and uses Microsoft technol
 
 ## **VirtualMetric API**
 
-All VirtualMetric components use VirtualMetric API to communicate with VirtualMetric DB. VirtualMetric API adds additional authentication layer called [ OWIN](https://github.com/owin/owin/wiki/FAQ#what-is-owin). All performance and inventory queries, authentication, dashboard and monitoring operations process on VirtualMetric API. VirtualMetric API uses Microsoft IIS Server for the web server role.\
-\
-You can access VirtualMetric API from your web browser. Default VirtualMetric API port is **8080**.
+All VirtualMetric components utilize VirtualMetric API to communicate with VirtualMetric DB. The VirtualMetric API adds additional authentication layer called[ OWIN](https://github.com/owin/owin/wiki/FAQ#what-is-owin). All performance and inventory queries, authentication, dashboard and monitoring operations are processed through the VirtualMetric API. VirtualMetric API uses Microsoft IIS Server for the web server role.
+
+You can access VirtualMetric API from your web browser. The default port for the VirtualMetric API is **8080**.
 
 ```
 http://localhost:8080
 ```
 
-If VirtualMetric API stops, then all operations would fail including Dashboard logins and monitoring. Notification system works directly from VirtualMetric Database via VirtualMetric SQL Jobs. When VirtualMetric API is offline, still you will be able to get notifications. You can check [Maintenance](https://cloud.virtualmetric.com/Documentation#installation-maintenance) section to repair VirtualMetric API.
+If VirtualMetric API stops, all operations, including Dashboard logins and monitoring would fail. However, the notification system continues to function directly from the VirtualMetric Database through VirtualMetric SQL Jobs. Even when the VirtualMetric API is offline, you will still receive notifications. To address issues with the VirtualMetric API, you can refer to the [Maintenance](../installation/maintenance.md) section for repair instructions.
 
 {% hint style="info" %}
-You can change default VirtualMetric API port during first setup. Please check [Installation](https://cloud.virtualmetric.com/Documentation#installation-section) section to change it during setup. You can also read [Maintenance](https://cloud.virtualmetric.com/Documentation#installation-maintenance) section to change the port later.
+You can change default VirtualMetric API port during first setup. Please check [Installation](broken-reference) section to change it during setup. You can also read [Maintenance](../installation/maintenance.md) section to change the port later.
 {% endhint %}
 
 ## VirtualMetric Dashboard
 
-VirtualMetric Dashboard is the HTML based web interface to access VirtualMetric. You can use it to configure servers, to set up notifications, to review monitoring results and to create reports. This web interface is highly interactive, using Javascript to deliver a powerful and easy-to-use user experience. While you are logged in, the VirtualMetric Dashboard permanently refreshes the data on the screen permanently (via Ajax calls) so it always shows the current monitoring results (you can set refresh interval). VirtualMetric Dashboard uses Microsoft IIS Server for the web server role.\
+VirtualMetric Dashboard serves as the HTML-based web interface for accessing VirtualMetric. It enables server configuration, notification setup, monitoring result review, and report creation. This interface offers high interactivity, leveraging Javascript to deliver a powerful and user-friendly experience. When logged in, the VirtualMetric Dashboard continuously refreshes data on the screen (via Ajax calls) to display real-time monitoring results (with a customizable refresh interval). For its web server role, the VirtualMetric Dashboard utilizes the Microsoft IIS Server.\
 \
 Default VirtualMetric Dashboard port is **80**.
 
