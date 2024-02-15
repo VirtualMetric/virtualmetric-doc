@@ -64,7 +64,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupWelcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupWelcome (2).png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLicensePage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupLicensePage.png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupAPIPage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupAPIPage.png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -107,7 +107,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupDashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupDashboard.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -118,7 +118,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupTrigger.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupTrigger (1).png" alt="" width="383"><figcaption></figcaption></figure>
 
 </div>
 
@@ -129,7 +129,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupSQLPage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupSQLPage.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -137,7 +137,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLocation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupLocation (1).png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -145,7 +145,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupInstall.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupInstall.png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -153,7 +153,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupFinish.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupFinish.png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -173,7 +173,7 @@ After loading the VirtualMetric Dashboard, you will see following login screen. 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLoginScreen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupLoginScreen.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -604,7 +604,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (835).png" alt="" width="495"><figcaption></figcaption></figure>
 
 </div>
 

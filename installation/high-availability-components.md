@@ -38,7 +38,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupWelcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupWelcome.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLicensePage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupLicense.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ Installing VirtualMetric is easy and works like other Windows-based applications
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupAPIPage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupAPI.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -77,7 +77,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/APISetupDatabase.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupDatabase.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -85,7 +85,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLocation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupLocation.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -93,7 +93,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupInstall.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupInstall.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -101,7 +101,7 @@ If you want to secure VirtualMetric API connections with an SSL certificate, ple
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupFinish.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/APISetupFinish.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -133,7 +133,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupUAC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupUAC.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -141,7 +141,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupWelcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupWelcome.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -149,7 +149,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupLicense.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupLicense.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -157,7 +157,7 @@ Installing VirtualMetric Dashboard is easy and works like other Windows-based ap
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupAPI.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupAPI.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -169,7 +169,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupLocation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupLocation.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -177,7 +177,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupInstall.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupInstall.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -185,7 +185,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/DashboardSetupFinish.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DashboardSetupFinish.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -263,7 +263,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupUAC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupUAC (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -271,7 +271,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupWelcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupWelcome.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -279,7 +279,7 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupLicense.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupLicense.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -288,12 +288,11 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 * &#x20;  VirtualMetric API Address
 * &#x20;  Trigger Identifier
 * &#x20;  API Username
-* &#x20;  API Token\
-
+* &#x20;  API Token
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupTrigger.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupTrigger.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -308,7 +307,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerUsernamePassword.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerUsernamePassword.png" alt="" width="385"><figcaption></figcaption></figure>
 
 </div>
 
@@ -316,7 +315,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupLocation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupLocation.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -324,7 +323,7 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupInstall.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupInstall.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -332,6 +331,6 @@ If you want to secure VirtualMetric Dashboard and VirtualMetric API connections 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/TriggerSetupFinish.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TriggerSetupFinish.png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>

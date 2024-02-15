@@ -2,12 +2,6 @@
 
 Bare Metal is the default server monitoring module of VirtualMetric. VirtualMetric uses standardized performance counters, so you can monitor Windows, VMware and Linux servers on same charts and reports.
 
-<div align="left">
-
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/BareMetal.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 You can reach Bare Metal module monitoring and reports via left menu.
 
 ## _**Module Reports**_

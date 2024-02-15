@@ -24,7 +24,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupWelcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupWelcome (3).png" alt="" width="386"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,7 +32,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 <div align="left">
 
-<figure><img src="https://cloud.virtualmetric.com/assets/help/images/SetupLicensePage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupLicensePage (1).png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/SetupInstall.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupInstall (1).png" alt="" width="389"><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 <div align="left">
 
-<figure><img src="https://dev.virtualmetric.com/assets/help/images/SetupFinish.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SetupFinish (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
