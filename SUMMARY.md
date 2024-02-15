@@ -217,6 +217,8 @@
   * [System Logs](settings/systems/system-logs.md)
   * [System Health](settings/systems/system-health.md)
   * [Advance Settings](settings/systems/advance-settings.md)
+* [Azure Active Directory Integration](settings/azure-active-directory-integration/README.md)
+  * [Role Based Authentication](settings/azure-active-directory-integration/role-based-authentication.md)
 
 ## Dashboard
 

@@ -24,7 +24,7 @@ Click Calendar button to enable datepicker.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="397"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="397"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ On datepicker, you will see two sections:
 
 You can easily change date range with pre-defined date ranges. Click on quick date range selection menu to see options.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 On quick selection menu, you will see following options:
 
