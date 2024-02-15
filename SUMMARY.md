@@ -219,6 +219,7 @@
   * [Advance Settings](settings/systems/advance-settings.md)
 * [Azure Active Directory Integration](settings/azure-active-directory-integration/README.md)
   * [Role Based Authentication](settings/azure-active-directory-integration/role-based-authentication.md)
+  * [Group Based Authentication](settings/azure-active-directory-integration/group-based-authentication.md)
 
 ## Dashboard
 
