@@ -4,13 +4,13 @@ VirtualMetric supports Azure Active Directory authentication for user authentica
 
 You can allow access to your Azure Active Directory users by configuring **"App Registration"** in your Azure Active Directory, and enabling **azureStatus** in your ControlPanel web.config file.
 
-1\.      First, go to ControlPanel web.config file:
+1\.      First, go to ControlPanel web.config file.
 
 ```
 C:\Program Files\VirtualMetric\ControlPanel\Web.config
 ```
 
-2\.      Find **azureStatus** in the **appSettings** section and change it as **true**:
+2\.      Find **azureStatus** in the **appSettings** section and change it as **true**.
 
 ```
     <appSettings>
@@ -23,7 +23,7 @@ C:\Program Files\VirtualMetric\ControlPanel\Web.config
     </appSettings>
 ```
 
-3\.      After enabling azureStatus in web.config file, you will see "Sign in with Microsoft" button on the logon screen:
+3\.      After enabling azureStatus in web.config file, you will see "Sign in with Microsoft" button on the logon screen.
 
 <div align="left">
 
