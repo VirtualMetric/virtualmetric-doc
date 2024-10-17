@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > TFTP Listener** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (289).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (305).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

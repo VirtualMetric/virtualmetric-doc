@@ -4,17 +4,17 @@ To create Datacenter, click to **Devices** on the left pane and then choose **Da
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 On Datacenters screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (369).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (385).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 

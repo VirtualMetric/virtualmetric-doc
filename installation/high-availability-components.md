@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # High Availability Components
 
 You can install two or more VirtualMetric roles that work together to form a high availability monitoring system. The objective is to reach true 100% uptime for the monitoring tool. By clustering, the uptime will no longer be degraded by failing connections because of an Internet outage at a VirtualMetric server's location, failing hardware, or because of downtime due to a software update for the operating system or VirtualMetric itself.
@@ -10,7 +14,7 @@ All VirtualMetric components use VirtualMetric API to communicate with VirtualMe
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -113,7 +117,7 @@ VirtualMetric Dashboard is the HTML based web interface to access VirtualMetric.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -197,7 +201,7 @@ VirtualMetric Database uses Microsoft SQL Server for the database role. You can 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -215,7 +219,7 @@ VirtualMetric Trigger (aka VirtualMetric Collector) is the main component to con
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -225,37 +229,37 @@ Before installing VirtualMetric Trigger, you should create a new Trigger entry o
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On Triggers screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Enter a **Trigger name** and **description**, select **visibility** then click **Submit** button.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (141).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (157).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 
 4\.      Write down the **Trigger Identifier**. You will **need that when you install VirtualMetric Trigger**.
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 5\.      Click to **API** **Users** on the left pane.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 6\.      Write down your **API Username** and **API Token**. You will **need that when you install VirtualMetric Trigger**.
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 7\.      Installing VirtualMetric Trigger is easy and works like other Windows-based applications. To install VirtualMetric Trigger, run the installation setup program that you have downloaded.
 

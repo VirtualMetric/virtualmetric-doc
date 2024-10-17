@@ -4,7 +4,7 @@ VirtualMetric provides complete visibility with its pre-configured custom counte
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -12,7 +12,7 @@ Select type of server and module.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,13 +22,13 @@ _**Notification Options**_
 
 In the Custom Counter settings, you can enable or disable all alerting systems including Email, SMS and Heatmap. By modifying thresholds of the counters, you can set their threshold limits and enable them on heatmap or activate notifications.
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 If you enable thresholds for a custom counter, you should also set threshold limits to activate. You can also choose to receive notifications or see their health status on Heatmap
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (209).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (225).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ _**Thresholds**_
 
 If thresholds option is enabled, VirtualMetric uses notification thresholds to determine counter health status which are healthy, monitor, warning or critical.
 
-<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 VirtualMetric offers **4 different** **Thresholds** for alerting:
 

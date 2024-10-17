@@ -4,7 +4,7 @@ Microsoft IIS is the monitoring module for Microsoft IIS Server. You can monitor
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@ Logging
 
 ## _**Module Counters**_
 
-VirtualMetric collects following performance counters for Microsoft SQL module.\
+VirtualMetric collects following performance counters for Microsoft IIS module.\
 
 
 **Processor**

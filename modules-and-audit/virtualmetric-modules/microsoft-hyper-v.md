@@ -4,7 +4,7 @@ Microsoft Hyper-V is the monitoring module for Microsoft Hyper-V Server. You can
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -260,7 +260,7 @@ Go to user properties and add groups into Member Of section:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="314"><figcaption></figcaption></figure>
 
 </div>
 

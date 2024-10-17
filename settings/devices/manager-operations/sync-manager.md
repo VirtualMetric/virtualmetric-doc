@@ -4,13 +4,13 @@ If you add a new server into Manager, then you should sync Manager to apply chan
 
 1\.      To sync configuration, click **Edit** on the Manager.
 
-<figure><img src="../../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 2\.      **Do not** make any **changes** and just click **Submit**.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (389).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (405).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ If you add a new server into Manager, then you should sync Manager to apply chan
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -6,19 +6,19 @@ Before start monitoring TCP, you should create a new TCP entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **TCP Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (596).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (612).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 

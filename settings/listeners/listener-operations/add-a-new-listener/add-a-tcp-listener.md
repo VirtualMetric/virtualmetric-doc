@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > TCP Listener** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (291).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (307).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

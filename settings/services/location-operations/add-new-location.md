@@ -4,17 +4,17 @@ To create Location, click to **Services** on the left pane and then choose **Loc
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 On **Locations** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (570).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (586).png" alt="" width="289"><figcaption></figcaption></figure>
 
 </div>
 

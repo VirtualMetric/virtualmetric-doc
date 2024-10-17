@@ -2,7 +2,7 @@
 
 In the following, the different areas of the VirtualMetric Devices tab are described.
 
-<figure><img src="../.gitbook/assets/image (886).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (902).png" alt=""><figcaption></figcaption></figure>
 
 On this screen:
 
@@ -24,7 +24,7 @@ Click Calendar button to enable datepicker.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="397"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="397"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ On datepicker, you will see two sections:
 
 You can easily change date range with pre-defined date ranges. Click on quick date range selection menu to see options.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 On quick selection menu, you will see following options:
 
@@ -64,7 +64,7 @@ After your selection, VirtualMetric will update Calendar and activate date range
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="471"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt="" width="471"><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +78,7 @@ Select Custom on quick selection menu. This will activate custom date and time s
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="471"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt="" width="471"><figcaption></figcaption></figure>
 
 </div>
 
@@ -86,7 +86,7 @@ After your date selection on calendar, you can now also set custom time range.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt="" width="309"><figcaption></figcaption></figure>
 
 </div>
 
@@ -98,13 +98,13 @@ Global filter can be applied on devices and reports tabs.&#x20;
 
 To add global filter click on global filter.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Select type of device and object
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="448"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt="" width="448"><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,15 +112,15 @@ Select type of device and object
 
 **Pin widget to windows** is clicked, the pin locks the widget, keeping it visible even when switching between tabs.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ## Minimize Widget
 
 When widget is minimized, only title will be visible.&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ## Enable Grids
 
@@ -128,7 +128,7 @@ When you right click on a metric and click on enable grids, you can add/edit wid
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -138,8 +138,8 @@ You can search metrics from search field.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (15).png" alt="" width="476"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="476"><figcaption></figcaption></figure>
 
 </div>
 
-Other common functions can be found from dashboard [common functionalities](../virtual-metric-dashboard/layout-and-common-functinalities.md).
+Other common functions can be found from dashboard [common functionalities](../dashboard/layout-and-common-functinalities.md).

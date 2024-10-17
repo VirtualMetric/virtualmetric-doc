@@ -6,13 +6,13 @@ If you wish to stop monitoring a workstation, you can remove the workstation fro
 
 1\.      To remove a workstation, go to Devices > Workstation, you get the following screen where you can manage all your workstations.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Click the Delete button. You get the following popup screen:&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (497).png" alt="" width="461"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (513).png" alt="" width="461"><figcaption></figcaption></figure>
 
 </div>
 

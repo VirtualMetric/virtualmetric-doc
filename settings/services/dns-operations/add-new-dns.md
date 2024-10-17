@@ -6,19 +6,19 @@ Before start monitoring DNS, you should create a new DNS entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (577).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **DNS Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (579).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (595).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 

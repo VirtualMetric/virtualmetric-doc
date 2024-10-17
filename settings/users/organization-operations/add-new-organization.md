@@ -20,19 +20,19 @@ To create a new Organization, you should go to Settings tab.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On Organization Management screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Enter Organization properties, then click **Submit** button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (318).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (334).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ You can find User logon name under User Properties in Active Directory Users and
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (319).png" alt="" width="213"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (335).png" alt="" width="213"><figcaption></figcaption></figure>
 
 </div>
 

@@ -5,21 +5,27 @@ To install VirtualMetric software, you need to meet the following requirements:
 * A **virtual machine** with at least **4 vCPU** and **minimum 8 GB RAM** memory.
 * Windows Server **2019**, Windows Server 2022 or later.
 * **100 GB Hard Disk Drive**
+* Microsoft Edge or Google Chrome should be installed on this Windows machine. (Internet Explorer is not supported by VirtualMetric).
 
 To store VirtualMetric Database, you need to meet the following requirements:
 
 * A **virtual machine** with at least **8 vCPU** and **minimum 16 GB RAM** memory.
-* Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
+* Ubuntu 22.04 or later / Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
 * System Drive: **100 GB** Hard Disk Drive for OS and Database Software
 * Data Drive: **100 GB** Hard Disk Drive minimum for basic data retention
-* SingleStore Self Managed 8.0 or later / SingleStore Cloud
+*   On this Linux machine, the following CPU flags must be enabled for the Clickhouse database to operate properly:
 
-To access VirtualMetric Dashboard, you need a web browser. The following browsers are supported:
+    * adx
+    * avx
+    * avx2
+    * bmi1
+    * bmi2
+    * clmul
+    * fma
+    * pclmulqdq
 
-* Google Chrome 49 or later (recommended)
-* Mozilla Firefox 45 or later
-* Microsoft Edge 14 or later
-* Opera 42 or later
+    You can get the list of enabled CPU flags by running this command:\
+    ”sudo cat /proc/cpuinfo | grep flags | head -n 1 | tr ' ' '\n' | sort”
 
 {% hint style="info" %}
 When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
@@ -181,7 +187,7 @@ When you log in for the first time, you will see Welcome Screen.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
 
 </div>
 

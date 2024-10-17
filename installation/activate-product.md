@@ -6,7 +6,7 @@ Click Licensing on the left pane under System menu, from there you can see your 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ VirtualMetric will activate your license automatically via the Internet when you
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (798).png" alt=""><figcaption><p>VirtualMetric Licensing Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (814).png" alt=""><figcaption><p>VirtualMetric Licensing Screen</p></figcaption></figure>
 
 </div>
 
@@ -24,13 +24,13 @@ If VirtualMetric server has Internet access, you can active the product by typin
 \
 1\.      On licensing page, click **Add (+)** button on the right top section.
 
-<figure><img src="../.gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (816).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will see a modal window to **type** your **license key**.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (801).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (817).png" alt="" width="296"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,13 +44,13 @@ If VirtualMetric server has no Internet access, you can active the product in of
 
 1\.      On licensing page, click **Add (+)** button on the right top section.
 
-<figure><img src="../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (819).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will see a modal window to **type** your **license key**.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (801).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (817).png" alt="" width="296"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@ If VirtualMetric server has no Internet access, you can active the product in of
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (807).png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (823).png" alt="" width="297"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,6 +96,6 @@ You can view your license details on table view.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (808).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
 
 </div>

@@ -20,7 +20,7 @@ In order to enable Windows Defender reports, please make sure that Collector ID:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (887).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ If Windows Defender collector is enabled, VirtualMetric also tracks Windows Even
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (888).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (904).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -47,7 +47,7 @@ If Windows Defender collector is enabled, VirtualMetric also tracks Windows Even
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (889).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -55,13 +55,13 @@ If Windows Defender collector is enabled, VirtualMetric also tracks Windows Even
 
 **Windows Defender: Detection (ID: 84)**
 
-<figure><img src="../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="283">Group</th><th width="123.33333333333331">Event ID</th><th>Message</th></tr></thead><tbody><tr><td>Windows Defender: Detection</td><td>1006</td><td>The antimalware engine found malware or other potentially unwanted software.</td></tr><tr><td>Windows Defender: Detection</td><td>1015</td><td>The antimalware platform detected suspicious behavior.</td></tr><tr><td>Windows Defender: Detection</td><td>1116</td><td>The antimalware platform detected malware or other potentially unwanted software.</td></tr></tbody></table>
 
 **Windows Defender: Quarantine (ID: 86)**
 
-<figure><img src="../.gitbook/assets/image (891).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (907).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="289">Group</th><th width="121.33333333333331">Event ID</th><th>Message</th></tr></thead><tbody><tr><td>Windows Defender: Quarantine</td><td>1009</td><td>The antimalware platform restored an item from quarantine.</td></tr><tr><td>Windows Defender: Quarantine</td><td>1010</td><td>The antimalware platform could not restore an item from quarantine.</td></tr><tr><td>Windows Defender: Quarantine</td><td>1011</td><td>The antimalware platform deleted an item from quarantine.</td></tr><tr><td>Windows Defender: Quarantine</td><td>1012</td><td>The antimalware platform could not delete an item from quarantine.</td></tr></tbody></table>
 
@@ -74,7 +74,7 @@ In order to enable Windows Firewall reports, please make sure that Collector ID:
 
 **Windows Firewall Log Collector (ID: 54)**
 
-<figure><img src="../.gitbook/assets/image (892).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (908).png" alt=""><figcaption></figcaption></figure>
 
 If Windows Firewall Log collector is enabled, VirtualMetric uses Windows Firewall Log file or Security Audit events to collect Windows Firewall activities. VirtualMetric collects following events of Windows Defender:
 
@@ -82,7 +82,7 @@ If Windows Firewall Log collector is enabled, VirtualMetric uses Windows Firewal
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (893).png" alt="" width="455"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (909).png" alt="" width="455"><figcaption></figcaption></figure>
 
 </div>
 
@@ -98,7 +98,7 @@ Right click on Windows Firewall title, and click Properties.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (894).png" alt="" width="512"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (910).png" alt="" width="512"><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ Click on Customize for logging properties.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,7 +114,7 @@ Choose Yes for logging dropped packets. You can also enable logging of successfu
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (896).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -130,7 +130,7 @@ Open Local Group Policy and go to Windows Settings -> Security Settings -> Local
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (897).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (913).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -138,7 +138,7 @@ Make sure that Success and Failure events are selected.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (898).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (914).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -146,7 +146,7 @@ VirtualMetric collects following events of Windows Firewall:
 
 **Filtering Platform Connection - Permitted (ID: 88)**
 
-<figure><img src="../.gitbook/assets/image (899).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="283">Group</th><th width="95.33333333333331">Event ID</th><th>Message</th></tr></thead><tbody><tr><td>Filtering Platform Connection: Permitted</td><td>5154</td><td>The Windows Filtering Platform has permitted an application or service to listen on a port for incoming connections.</td></tr><tr><td>Filtering Platform Connection: Permitted</td><td>5156</td><td>The Windows Filtering Platform has permitted a connection.</td></tr><tr><td>Filtering Platform Connection: Permitted</td><td>5158</td><td>The Windows Filtering Platform has permitted a bind to a local port.</td></tr></tbody></table>
 
@@ -154,7 +154,7 @@ VirtualMetric collects following events of Windows Firewall:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (916).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -164,7 +164,7 @@ VirtualMetric collects following events of Windows Firewall:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -180,7 +180,7 @@ In order to enable Object Access Auditing reports, please make sure that Collect
 
 **Windows Object Access Audit Collector (ID: 144)**
 
-<figure><img src="../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (919).png" alt=""><figcaption></figcaption></figure>
 
 To activate event logging for Object Access Auditing, you should make changes on Local Group Policy settings.
 
@@ -188,7 +188,7 @@ Open Local Group Policy and go to Windows Settings -> Security Settings -> Local
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (904).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (920).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -196,7 +196,7 @@ Make sure that Success and Failure events are selected.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (905).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (921).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -204,7 +204,7 @@ For test purposes, go to Properties of the sensitive file.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (906).png" alt="" width="449"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (922).png" alt="" width="449"><figcaption></figcaption></figure>
 
 </div>
 
@@ -212,7 +212,7 @@ Switch to Security tab and click on Advanced button.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (907).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (923).png" alt="" width="434"><figcaption></figcaption></figure>
 
 </div>
 
@@ -220,7 +220,7 @@ Switch to Auditing tab and click on Add button.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (908).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (924).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -228,7 +228,7 @@ Click on Select a principal and type Everyone and click OK button.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (909).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (925).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -236,7 +236,7 @@ Select All for type, and switch Advanced Mode. Select the events for logging and
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (911).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (927).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -244,7 +244,7 @@ Click Apply and click OK button to save changes.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (910).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (926).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -254,7 +254,7 @@ VirtualMetric collects following events of Object Access Auditing:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (928).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -262,7 +262,7 @@ VirtualMetric collects following events of Object Access Auditing:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (929).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -289,7 +289,7 @@ After modifying `accessmode` options, you can click Submit button to apply chang
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (914).png" alt="" width="455"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (930).png" alt="" width="455"><figcaption></figcaption></figure>
 
 </div>
 
@@ -300,7 +300,7 @@ In order to enable Windows File Change Tracking reports, please make sure that C
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -314,7 +314,7 @@ If you clear these settings, VirtualMetric logs all file changes. You can use `e
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (916).png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (932).png" alt="" width="452"><figcaption></figcaption></figure>
 
 </div>
 

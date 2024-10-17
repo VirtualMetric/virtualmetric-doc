@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > Redis Consumer** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (301).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (317).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

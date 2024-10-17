@@ -1,10 +1,10 @@
-# VMWare
+# VMware
 
 VMware is the monitoring module for VMware products including vCenter and vSphere. You can monitor performance counters and get inventory reports for your VMware Hosts and virtual machines.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -321,7 +321,7 @@ Click Add New User and type new user information.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -333,7 +333,7 @@ Go to Home view.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -341,7 +341,7 @@ Click on Roles icon.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="460"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="460"><figcaption></figcaption></figure>
 
 </div>
 
@@ -349,7 +349,7 @@ Click Add button to open dialog.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt="" width="266"><figcaption></figcaption></figure>
 
 </div>
 
@@ -376,7 +376,7 @@ After that, you should add the new user to the user role as a member.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -384,7 +384,7 @@ Click Add button, select the user and click OK button to apply changes.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -400,7 +400,7 @@ Go to Administration tab.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -408,7 +408,7 @@ From Users and Groups section, click + button to add a new user.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="439"><figcaption></figcaption></figure>
 
 </div>
 
@@ -420,7 +420,7 @@ From Roles section, click + button to add new a Role.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="383"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt="" width="383"><figcaption></figcaption></figure>
 
 </div>
 
@@ -428,7 +428,7 @@ On the dialog, expand the All Privileges section to add permissions.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt="" width="314"><figcaption></figcaption></figure>
 
 </div>
 
@@ -445,7 +445,7 @@ After Role and User creation, you need to assign the User to the Role.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -455,7 +455,7 @@ Go to Navigator and select Hosts and Clusters.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -463,7 +463,7 @@ Switch to Permissions tab and complete User-Role Assignment for the scope.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt="" width="462"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt="" width="462"><figcaption></figcaption></figure>
 
 </div>
 

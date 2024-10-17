@@ -4,17 +4,17 @@ To create Device Group, click to Devices on the left pane and then choose Device
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 On **Device Groups** screen, select **type** and click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (382).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 

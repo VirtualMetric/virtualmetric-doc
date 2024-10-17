@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > SNMP Trap Listener** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (299).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (315).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 

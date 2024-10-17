@@ -2,13 +2,13 @@
 
 1\.      Go to **Listeners > Flow Endpoints** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (284).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (300).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 

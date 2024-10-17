@@ -74,7 +74,7 @@ sc sdshow mssqlserver
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt="" width="502"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="502"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,7 +96,7 @@ sc sdset MSSQLSERVER D:(A;;CCLCRPRCLO;;;AU)(A;;CCLCRPRC;;;IU)(A;;CCLCRPRC;;;SU)(
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="502"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="502"><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ Using SSMS add user to Server Logins:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,7 +114,7 @@ Choose user and click OK button:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt="" width="520"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="520"><figcaption></figcaption></figure>
 
 </div>
 
@@ -122,7 +122,7 @@ From Securables tab select Search and choose The Server selection.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt="" width="521"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="521"><figcaption></figcaption></figure>
 
 </div>
 
@@ -139,6 +139,6 @@ View server state
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (917).png" alt="" width="518"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (933).png" alt="" width="518"><figcaption></figcaption></figure>
 
 </div>

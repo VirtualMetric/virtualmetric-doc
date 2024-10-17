@@ -4,13 +4,13 @@ If you add a new server into **Manager**, then you should sync Cluster to apply 
 
 1\.      To sync configuration, click **Edit** on the Cluster.
 
-<figure><img src="../../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
 
 2\.      **Do not** make any changes and just click **Submit**.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (468).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (484).png" alt="" width="306"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ If you add a new server into **Manager**, then you should sync Cluster to apply 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

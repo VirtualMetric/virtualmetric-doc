@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Maintenance
 
 In this section, you will find some maintenance options for VirtualMetric. If you need further support, please contact with VirtualMetric support.
@@ -40,7 +44,7 @@ To backup your VirtualMetric Database, first you should connect to your current 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,13 +52,13 @@ To backup your VirtualMetric Database, first you should connect to your current 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (148).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (164).png" alt="" width="362"><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (149).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (165).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,7 +66,7 @@ To backup your VirtualMetric Database, first you should connect to your current 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (150).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -70,7 +74,7 @@ To backup your VirtualMetric Database, first you should connect to your current 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +84,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -88,7 +92,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (153).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (169).png" alt="" width="360"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,7 +100,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (154).png" alt="" width="346"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt="" width="346"><figcaption></figcaption></figure>
 
 </div>
 
@@ -104,7 +108,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,7 +116,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (156).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (172).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -120,7 +124,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (173).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -128,7 +132,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (158).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (174).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -136,7 +140,7 @@ To restore your VirtualMetric Database, first you should connect to your current
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -154,7 +158,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -162,7 +166,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -170,7 +174,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (162).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (178).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -178,7 +182,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (163).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (179).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -186,7 +190,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (164).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (180).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -194,7 +198,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (165).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -202,7 +206,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (166).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (182).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -210,7 +214,7 @@ Please read [Backup Database](maintenance.md#backup-database) to learn how to ba
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -241,7 +245,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (128).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (144).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -249,7 +253,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (129).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (145).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -257,7 +261,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (130).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -265,7 +269,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (131).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -279,7 +283,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -287,7 +291,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -295,7 +299,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -303,7 +307,7 @@ You may need to change SQL user or SQL user password for several reasons. To cha
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (812).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (828).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -333,7 +337,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (813).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (829).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -341,7 +345,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (814).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (830).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -349,7 +353,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (815).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (831).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -357,7 +361,7 @@ password={SA Password}; // SQL User Password
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (832).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -396,7 +400,7 @@ On the config file, you will see following lines:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (817).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (833).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -404,7 +408,7 @@ On the config file, you will see following lines:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (814).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (830).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -412,7 +416,7 @@ On the config file, you will see following lines:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (815).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (831).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -420,7 +424,7 @@ On the config file, you will see following lines:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (832).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -440,14 +444,14 @@ If you **forget** the admin **username/password** of VirtualMetric Dashboard, yo
 * Changing directly from VirtualMetric Database
 
 {% hint style="info" %}
-Please read [Password Recovery Request](../virtual-metric-dashboard/login.md#password-recovery-request) to learn how to reset your password via VirtualMetric Dashboard.
+Please read [Password Recovery Request](../dashboard/login.md#password-recovery-request) to learn how to reset your password via VirtualMetric Dashboard.
 {% endhint %}
 
 1\.      To change admin password from VirtualMetric Database, first you should connect to your current Microsoft SQL Server instance via [ SQL Server Management Studio](https://en.wikipedia.org/wiki/SQL\_Server\_Management\_Studio).
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (834).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -455,7 +459,7 @@ Please read [Password Recovery Request](../virtual-metric-dashboard/login.md#pas
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (819).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (835).png" alt="" width="220"><figcaption></figcaption></figure>
 
 </div>
 
@@ -463,13 +467,13 @@ Please read [Password Recovery Request](../virtual-metric-dashboard/login.md#pas
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (820).png" alt="" width="220"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (836).png" alt="" width="220"><figcaption></figcaption></figure>
 
 </div>
 
 4\.      **Find the user** that you want to **change password** and navigate to **Password field**.
 
-<figure><img src="../.gitbook/assets/image (821).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (837).png" alt=""><figcaption></figcaption></figure>
 
 5\.      VirtualMetric uses MD5 hashes instead of real passwords. You can convert your password with online conversion websites or you can simply use PowerShell to convert your password to MD5 hash.
 
@@ -492,7 +496,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (822).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (838).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -500,7 +504,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (839).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -508,7 +512,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (824).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (840).png" alt="" width="269"><figcaption></figcaption></figure>
 
 </div>
 
@@ -524,7 +528,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (825).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (841).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -532,7 +536,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (842).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -540,7 +544,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (827).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -548,7 +552,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (828).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (844).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -556,7 +560,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (829).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (845).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -564,7 +568,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (830).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (846).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -572,7 +576,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (831).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (847).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -580,7 +584,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (832).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (848).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -588,7 +592,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -596,7 +600,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (834).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -604,7 +608,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (835).png" alt="" width="495"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (851).png" alt="" width="495"><figcaption></figcaption></figure>
 
 </div>
 
@@ -612,7 +616,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (836).png" alt="" width="495"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (852).png" alt="" width="495"><figcaption></figcaption></figure>
 
 </div>
 
@@ -620,7 +624,7 @@ To make VirtualMetric Dashboard and VirtualMetric API connections secure, you ca
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (837).png" alt="" width="495"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (853).png" alt="" width="495"><figcaption></figcaption></figure>
 
 </div>
 
@@ -651,7 +655,7 @@ Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (838).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (854).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -659,7 +663,7 @@ Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (839).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (855).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -667,7 +671,7 @@ Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (840).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (856).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -675,7 +679,7 @@ Please open **Task Scheduler** on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (841).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (857).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -705,7 +709,7 @@ If you use private network for VirtualMetric Standalone Server and if you want t
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (842).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -727,7 +731,7 @@ When you set external address for VirtualMetric API, Client Devices must be able
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -735,7 +739,7 @@ If Client Devices are able to reach to VirtualMetric API, then you must also be 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -751,7 +755,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (845).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (861).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -759,7 +763,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (846).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -767,7 +771,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (847).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (863).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -775,7 +779,7 @@ Default session timeout for VirtualMetric Dashboard is 20 minutes. This is the d
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (864).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -829,7 +833,7 @@ masterauth {password}
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -837,7 +841,7 @@ masterauth {password}
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (109).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125).png" alt="" width="309"><figcaption></figcaption></figure>
 
 </div>
 
@@ -849,7 +853,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (110).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -857,7 +861,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -865,7 +869,7 @@ You must restart application pool of VirtualMetric API via IIS Manager to apply 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (112).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt="" width="269"><figcaption></figcaption></figure>
 
 </div>
 
@@ -881,7 +885,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (113).png" alt="" width="372"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt="" width="372"><figcaption></figcaption></figure>
 
 </div>
 
@@ -893,7 +897,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (114).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt="" width="352"><figcaption></figcaption></figure>
 
 </div>
 
@@ -904,7 +908,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (115).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt="" width="352"><figcaption></figcaption></figure>
 
 </div>
 
@@ -914,7 +918,7 @@ We recommend you to configure following Microsoft SQL Server optimizations to ge
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (116).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (132).png" alt="" width="352"><figcaption></figcaption></figure>
 
 </div>
 

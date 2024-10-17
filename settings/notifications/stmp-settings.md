@@ -6,7 +6,7 @@ Mail server settings can be configured from SMTP Settings.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ Mail server settings can be configured from SMTP Settings.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (264).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

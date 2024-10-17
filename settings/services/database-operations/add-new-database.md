@@ -6,19 +6,19 @@ Before start monitoring Database, you should create a new Database entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **Database Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (602).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (618).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 

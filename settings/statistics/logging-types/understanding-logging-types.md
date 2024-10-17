@@ -2,7 +2,7 @@
 
 Logging Levels determine the frequency at which statistic queries occur, the length of time statistical data is stored in the database and the type of statistical data that is collected. You can view the collected statistics through the performance charts on the VirtualMetric Dashboard and VirtualMetric Insight.
 
-<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 VirtualMetric offers **5 different Logging Levels by default:**
 

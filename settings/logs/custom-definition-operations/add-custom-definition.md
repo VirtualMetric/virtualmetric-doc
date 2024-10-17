@@ -6,19 +6,19 @@ Before adding new Custom definition, you should create a new custom definition e
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (759).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-2\.      On **Custom Definitions Management** screen, click **Add (+)** button on the right top section.
+2\.      On the **Custom Definitions Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (760).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Select type of Server.
 
-<figure><img src="../../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (761).png" alt=""><figcaption></figcaption></figure>
 
-4\.      Fields will change based on type.
+4\.      Fields will change based on the type.
 
 ## Type: File Based
 
@@ -26,7 +26,7 @@ File Based server type includes Windows (Server), Windows (Workstation), Linux (
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (746).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (762).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,31 +40,53 @@ Event based server type includes Windows (Server), Windows (Workstation)
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (214).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (230).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 _Refer to the following table to understand the fields in the above screen._
 
-<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>Event Type</td><td><p>The user has the option to filter logs using Event Type settings. Filter logs based on the following event types: </p><p>·       Critical </p><p>·       Error </p><p>·       Warning </p><p>·       Information </p><p><strong>Note:</strong> If you remove selections of all types, there will be no Event Type filtering. In that case, VirtualMetric Collector will also collect Verbose and Debug logs. </p></td></tr><tr><td>Event ID </td><td>Specific number for specifying event-id.</td></tr><tr><td>Keyword </td><td><p>You can filter logs by using Keyword. Keyword filtering is only available for Windows servers. You can type the keyword that you want to use for filtering. VirtualMetric Collector will use it immediately to filter logs.</p><p>You can use string and integer type of keywords.</p></td></tr><tr><td>Notes </td><td>Additional area for specifying notes.</td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr></tbody></table>
+<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>Event Type</td><td><p>The user has the option to filter logs using Event Type settings. Filter logs based on the following event types: </p><p>·       Critical </p><p>·       Error </p><p>·       Warning </p><p>·       Information </p><p><strong>Note:</strong> If you remove selections of all types, there will be no Event Type filtering. In that case, VirtualMetric Collector will also collect Verbose and Debug logs. </p></td></tr><tr><td>Event ID </td><td>Specific number for specifying event-id.</td></tr><tr><td>Keyword </td><td><p>You can filter logs by using Keyword. Keyword filtering is only available for Windows servers. You can type the keyword that you want to use for filtering. VirtualMetric Collector will use it immediately to filter logs.</p><p>You can use string and integer keywords.</p></td></tr><tr><td>Notes </td><td>Additional area for specifying notes.</td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr></tbody></table>
 
 ## Type: SNMP OID
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (215).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (231).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 _Refer to the following table to understand the fields in the above screen._
 
-<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>OID (1)</td><td>OID can be imported from an internal system (1)</td></tr><tr><td>OID (2)</td><td><p>OID can be added by adding manually (2)</p><p><img src="../../../.gitbook/assets/image (216).png" alt="" data-size="original"></p><p>·       <strong>Name:</strong> A label or name that is assigned to an OID. </p><p>·       <strong>OID:</strong> Unique sequence of numbers used in network management systems like SNMP to identify managed objects in a hierarchical tree structure.</p><p>·       <strong>Regex:</strong> Sequence of characters that defines a search pattern, aiding in string matching and manipulation within text.</p><p>·       <strong>Type:</strong> Select the type of OID between <strong>String</strong> and <strong>Number</strong></p></td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr><tr><td>Status</td><td>Custom definition can be enabled/disabled from status field.</td></tr></tbody></table>
+<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>OID (1)</td><td>OID can be imported from an internal system (1)</td></tr><tr><td>OID (2)</td><td><p>OID can be added manually  (2)</p><p><img src="../../../.gitbook/assets/image (232).png" alt="" data-size="original"></p><p>·       <strong>Name:</strong> A label or name that is assigned to an OID. </p><p>·       <strong>OID:</strong> Unique sequence of numbers used in network management systems like SNMP to identify managed objects in a hierarchical tree structure.</p><p>·       <strong>Regex:</strong> Sequence of characters that defines a search pattern, aiding in string matching and manipulation within text.</p><p>·       <strong>Type:</strong> Select the type of OID between <strong>String</strong> and <strong>Number</strong></p></td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr><tr><td>Status</td><td>Custom definition can be enabled/disabled from status field.</td></tr></tbody></table>
+
+{% hint style="info" %}
+As an example, the CSV format should be like this. You should fill the name and oid values.
+
+You can use "1" instead of "String"
+
+You can use "2" instead of "Integer"
+
+
+
+"Name1","oidvalue1","String"&#x20;
+
+"Name2","oidvalue2","Integer"
+
+
+
+**Example:**&#x20;
+
+Name1,1.3.6.1.4.1.11096.6.1.1.1.2.1.6,1&#x20;
+
+Name2,1.3.6.1.4.1.11096.6.1.1.1.2.1.7,2
+{% endhint %}
 
 ## Type: Syslog
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (217).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (233).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +100,7 @@ Stream Based server type includes TCP, UDP, HTTP, SMTP
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (218).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (234).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -90,7 +112,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (219).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (235).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -102,13 +124,13 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (220).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (236).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 _Refer to the following table to understand the fields in the above screen._
 
-<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>Event Type</td><td><p>The user has the option to filter logs using Event Type settings. Filter logs based on the following event types: </p><p>·       Critical </p><p>·       Error </p><p>·       Warning </p><p>·       Information </p><p><strong>Note:</strong> If you remove selections of all types, there will be no Event Type filtering. In that case, VirtualMetric Collector will also collect Verbose and Debug logs. </p></td></tr><tr><td>Event ID </td><td>Specific number for specifying event-id.</td></tr><tr><td>Keyword </td><td><p>You can filter logs by using Keyword. Keyword filtering is only available for Windows servers. You can type the keyword that you want to use for filtering. VirtualMetric Collector will use it immediately to filter logs.</p><p>You can use string and integer type of keywords.</p></td></tr><tr><td>Notes </td><td>Additional area for specifying notes.</td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr></tbody></table>
+<table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>Event Type</td><td><p>The user has the option to filter logs using Event Type settings. Filter logs based on the following event types: </p><p>·       Critical </p><p>·       Error </p><p>·       Warning </p><p>·       Information </p><p><strong>Note:</strong> If you remove selections of all types, there will be no Event Type filtering. In that case, VirtualMetric Collector will also collect Verbose and Debug logs. </p></td></tr><tr><td>Event ID </td><td>Specific number for specifying event-id.</td></tr><tr><td>Keyword </td><td><p>You can filter logs by using Keyword. Keyword filtering is only available for Windows servers. You can type the keyword that you want to use for filtering. VirtualMetric Collector will use it immediately to filter logs.</p><p>You can use string and integer keywords.</p></td></tr><tr><td>Notes </td><td>Additional area for specifying notes.</td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr></tbody></table>
 
 ## Type: Stream Based Queue Systems
 
@@ -116,7 +138,7 @@ Stream Based queue systems includes Redis, Kafka, RabbitMQ, Nats
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (221).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (237).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -128,7 +150,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (222).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (238).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -140,7 +162,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (223).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (239).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -152,7 +174,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (240).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -160,11 +182,15 @@ _Refer to the following table to understand the fields in the above screen._
 
 <table><thead><tr><th width="172">Fields</th><th>Descriptions</th></tr></thead><tbody><tr><td>Name </td><td>A label or name that is assigned to a custom definition. </td></tr><tr><td>Retention Period </td><td>The retention period of logs signifies the duration for which log data is stored or maintained before it's automatically deleted or archived.</td></tr><tr><td>Visibility</td><td><p>To provide visibility to either your own organization or all the other organizations. The options are: </p><p>·       My Organizations </p><p>·       All Organizations </p></td></tr><tr><td>File Name</td><td>The name assigned to a file, identifying it within a file system.</td></tr><tr><td>Interpretor Type</td><td><p>Select a proper interpretor type from dropdown.</p><p>·       <strong>Exe:</strong> An executable file containing machine code that can be run directly by an operating system.</p><p>·       <strong>Shell:</strong> The user interface enabling interaction with an operating system, interpreting commands and executing programs.</p><p>·       <strong>Powershell:</strong> A command-line shell and scripting language designed for task automation and configuration management in Windows environments. </p></td></tr><tr><td>Credential Type</td><td><p>Select a proper credential type and credential.</p><p>·       <strong>None</strong></p><p>·       <strong>Basic</strong> – Selecting this option provides you with another Field called Credential from where you can select an appropriate option.</p><p>·       <strong>HMAC</strong> – Selecting this option provides you with another Field called Credential from where you can select an appropriate option.</p><p>·       <strong>HTTP Header</strong> – Selecting this option provides you with another Field called Credential from where you can select an appropriate option.</p></td></tr><tr><td>Time Period</td><td><p>Select a proper time period from dropdown.</p><p>Specific duration or interval between two points in time. </p></td></tr><tr><td>Timeout</td><td>Duration within which an operation or process is expected to complete before being considered unsuccessful or interrupted.</td></tr><tr><td>Status</td><td>Custom definition can be enabled/disabled from status field.</td></tr></tbody></table>
 
+{% hint style="info" %}
+The scripts should be located under the `package/scripts` directory within the directory found by the agent. If the `package/scripts` directory does not exist, please create it.
+{% endhint %}
+
 ## Type: Query Based
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (225).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (241).png" alt="" width="288"><figcaption></figcaption></figure>
 
 </div>
 
@@ -178,7 +204,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (226).png" alt="" width="155"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242).png" alt="" width="155"><figcaption></figcaption></figure>
 
 </div>
 
@@ -186,7 +212,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (227).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -201,7 +227,7 @@ _Refer to the following table to understand the fields in the above screen._
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (244).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -235,7 +261,7 @@ Sometimes log files can contain different types of date format. Custom date form
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (229).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (245).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -245,7 +271,7 @@ Sometimes log files can contain different types of field formats. Custom field p
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (230).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (246).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -253,7 +279,7 @@ Sometimes log files can contain different types of field formats. Custom field p
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (231).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (247).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -261,7 +287,7 @@ Sometimes log files can contain different types of field formats. Custom field p
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (232).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (248).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -269,7 +295,7 @@ Sometimes log files can contain different types of field formats. Custom field p
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (233).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (249).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -279,7 +305,7 @@ Regex can be written for parse the line
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (234).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (250).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -289,13 +315,13 @@ There are two modes in this part. Users can write any word or regex.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (236).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (252).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (237).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (253).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 
@@ -303,7 +329,7 @@ There are two modes in this part. Users can write any word or regex.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (239).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (255).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 
@@ -313,20 +339,20 @@ There are two modes in this part. Users can write any word or regex.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (240).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (256).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 1. Select a proper reader mode.
 
-* Ingest all except matched lines: Shows logs which contain written pattern.
-* Ingest only matched lines: Shows logs which do not contain written pattern.
+* Ingest all except matched lines: Shows logs that contain written pattern.
+* Ingest only matched lines: Shows logs that do not contain written pattern.
 
 2. Click Add button
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (241).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (257).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -334,9 +360,15 @@ Example:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (243).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (259).png" alt="" width="296"><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+You should add (\*) to beginning and end of the expression.&#x20;
+
+**Example:** \*error\*
+{% endhint %}
 
 ### Encoding
 
@@ -346,7 +378,7 @@ Select a proper encoding type from dropdown.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (244).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

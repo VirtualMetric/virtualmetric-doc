@@ -2,13 +2,13 @@
 
 1\.      To remove a datacenter, go to **Devices > Datacenter,** click the **delete** button.
 
-<figure><img src="../../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure>
 
 2\.      From **popup** screen, **click** the **delete** button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="307"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="307"><figcaption></figcaption></figure>
 
 </div>
 

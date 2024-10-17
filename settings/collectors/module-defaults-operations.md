@@ -6,7 +6,7 @@ You can update inventory collector definitions for modules, so when you assign a
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ You can update inventory collector definitions for modules, so when you assign a
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ You can update inventory collector definitions for modules, so when you assign a
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (275).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

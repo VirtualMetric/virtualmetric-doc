@@ -6,9 +6,9 @@ VirtualMetric is designed for a clean and innovative reporting interface and enh
 
 VirtualMetric can collect important processor, memory, disk and network counters in realtime. You can select more than one counter with different units and you can view them on the same chart. You can filter Device Groups, Clusters or Servers to monitor specific servers.
 
-<figure><img src="../.gitbook/assets/image (773).png" alt=""><figcaption><p>Summarized Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (789).png" alt=""><figcaption><p>Summarized Overview</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (774).png" alt=""><figcaption><p>Multi Counter Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (790).png" alt=""><figcaption><p>Multi Counter Overview</p></figcaption></figure>
 
 {% hint style="info" %}
 Realtime Monitoring uses in-memory database and stores only 90 seconds of monitoring data.
@@ -22,17 +22,17 @@ VirtualMetric reports is our new tool which gives you the ability to create cust
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (782).png" alt=""><figcaption><p>Monitoring Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (798).png" alt=""><figcaption><p>Monitoring Overview</p></figcaption></figure>
 
 </div>
 
 VirtualMetric draws different type of performance counters on the same chart and helps you to make correlation between them. You can combine any sensors by using our large sets of inventory and performance counters which now has more than 700 sensors. VirtualMetric allows you to create your own charts and reports as template. You can also share these templates with your organizations.
 
-<figure><img src="../.gitbook/assets/image (783).png" alt=""><figcaption><p>Report Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (799).png" alt=""><figcaption><p>Report Overview</p></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (784).png" alt=""><figcaption><p>Top IO Usage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (800).png" alt=""><figcaption><p>Top IO Usage</p></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ VirtualMetric draws different type of performance counters on the same chart and
 
 VirtualMetric offers collecting the different types logs (custom log, application log, syslog etc.), custom log date parsing, filtering logs by query and showing trends on bar chart.
 
-<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Log Analysis</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption><p>Log Analysis</p></figcaption></figure>
 
 ***
 
@@ -50,7 +50,7 @@ VirtualMetric offers collecting the different types logs (custom log, applicatio
 
 VirtualMetric tracks every single change on your environment to keep you updated about undesired updates. You will never miss any software, hardware, service or configuration updates anymore. VirtualMetric gives you perfect insight on your environment. You can export all changes into CSV, Excel and PDF with specific date range.
 
-<figure><img src="../.gitbook/assets/image (785).png" alt=""><figcaption><p><strong>Configuration Changes Overview</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (801).png" alt=""><figcaption><p><strong>Configuration Changes Overview</strong></p></figcaption></figure>
 
 ***
 
@@ -65,13 +65,13 @@ VirtualMetric logs every TCP connections on your servers to troubleshoot network
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (787).png" alt="" width="271"><figcaption><p>Geo Activity Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (803).png" alt="" width="271"><figcaption><p>Geo Activity Overview</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (795).png" alt="" width="375"><figcaption><p> Network Sessions Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (811).png" alt="" width="375"><figcaption><p> Network Sessions Overview</p></figcaption></figure>
 
 </div>
 
@@ -97,7 +97,7 @@ VirtualMetric offers many Forensic reports to give you complete visibility on yo
 * &#x20; Local DNS Records
 * &#x20; Local Administrators
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption><p>Forensic Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>Forensic Overview</p></figcaption></figure>
 
 ***
 
@@ -107,13 +107,13 @@ VirtualMetric offers Windows Defender reports to track virus, malware, trojan et
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption><p>Security Thread Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>Security Thread Overview</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption><p>Security Thread Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption><p>Security Thread Overview</p></figcaption></figure>
 
 </div>
 
@@ -132,7 +132,7 @@ VirtualMetric offers Object Access Auditing to let you know what actually happen
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p><strong>Object Access Auditing Overview</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p><strong>Object Access Auditing Overview</strong></p></figcaption></figure>
 
 </div>
 

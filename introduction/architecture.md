@@ -2,7 +2,7 @@
 
 All VirtualMetric components work on Windows platform and uses Microsoft technologies that you are already familiar.
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,7 +38,7 @@ http://localhost
 
 ## **VirtualMetric Database**
 
-VirtualMetric Database is the main datastore to hold all inventory and monitoring data. VirtualMetric Database is the most critical component. If VirtualMetric Database becomes unresponsive, you could not do any query via VirtualMetric API. VirtualMetric Database uses Microsoft SQL Server for the database role.
+VirtualMetric Database is the main datastore to hold all inventory and monitoring data. VirtualMetric Database is the most critical component. If VirtualMetric Database becomes unresponsive, you could not do any query via VirtualMetric API. VirtualMetric Database uses Clickhouse for the database role.
 
 ***
 

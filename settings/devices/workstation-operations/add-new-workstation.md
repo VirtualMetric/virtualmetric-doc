@@ -6,19 +6,19 @@ Click to Workstation on the left pane.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (483).png" alt="" width="128"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (499).png" alt="" width="128"><figcaption></figcaption></figure>
 
 </div>
 
 On Workstation Management screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
 
 Select **Workstation Type** and enter **FQDN / IP Address** of Workstation, then click **Submit** button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (485).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (501).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ Select **Workstation Type** and enter **FQDN / IP Address** of Workstation, then
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (486).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (502).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@ Select **Workstation Type** and enter **FQDN / IP Address** of Workstation, then
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (489).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (505).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ Select **Workstation Type** and enter **FQDN / IP Address** of Workstation, then
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (490).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (506).png" alt="" width="281"><figcaption></figcaption></figure>
 
 </div>
 

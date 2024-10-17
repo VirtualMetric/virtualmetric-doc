@@ -4,7 +4,7 @@ After adding your device, log definition and binding them, log can be searched f
 
 In the following, the different areas of the VirtualMetric Analytics tab are described.
 
-<figure><img src="../.gitbook/assets/image (918).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
 On this screen:
 

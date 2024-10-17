@@ -4,7 +4,7 @@ Microsoft SQL is the monitoring module for Microsoft SQL Server. You can monitor
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -364,7 +364,7 @@ You will see default security descriptor of the MSSQLSERVER Service.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="502"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt="" width="502"><figcaption></figcaption></figure>
 
 </div>
 
@@ -385,7 +385,7 @@ sc sdset MSSQLSERVER D:(A;;CCLCRPRCLO;;;AU)(A;;CCLCRPRC;;;IU)(A;;CCLCRPRC;;;SU)(
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="502"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt="" width="502"><figcaption></figcaption></figure>
 
 </div>
 
@@ -395,7 +395,7 @@ Using SSMS add user to Server Logins:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -403,7 +403,7 @@ Choose user and click OK button:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="520"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt="" width="520"><figcaption></figcaption></figure>
 
 </div>
 
@@ -411,7 +411,7 @@ From Securables tab select Search and choose The Server selection.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt="" width="521"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt="" width="521"><figcaption></figcaption></figure>
 
 </div>
 
@@ -428,7 +428,7 @@ View server state
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="518"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="518"><figcaption></figcaption></figure>
 
 </div>
 

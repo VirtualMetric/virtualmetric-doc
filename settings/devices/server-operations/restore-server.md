@@ -9,21 +9,21 @@ If you remove a server mistakenly, you can still revert changes back from Virtua
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (536).png" alt="" width="356"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (552).png" alt="" width="356"><figcaption></figcaption></figure>
 
     </div>
 3.  Locate **dbo.Host** and right-click on it, then choose "**Edit Top 200 Rows**" from the menu.
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (553).png" alt="" width="375"><figcaption></figcaption></figure>
 
     </div>
 4.  Find the RecordStatus column; it will display a value of **4**.
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (538).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 5. Change the RecordStatus value to **1** to set the server status as **Active**.
@@ -36,21 +36,21 @@ You must restart application pool of **VirtualMetric API** via **IIS Manager** t
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (539).png" alt="" width="306"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (555).png" alt="" width="306"><figcaption></figcaption></figure>
 
     </div>
 2.  In the left menu, click on "**Application Pools.**"
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (540).png" alt="" width="353"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (556).png" alt="" width="353"><figcaption></figcaption></figure>
 
     </div>
 3. Right-click on "**VirtualMetric API**" and select "**Recycle**" to restart the application pool.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (541).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (557).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +59,7 @@ You must restart application pool of **VirtualMetric API** via **IIS Manager** t
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (543).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 6. You will see that the server entry is once again restored in the Server List.

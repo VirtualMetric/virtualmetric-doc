@@ -55,6 +55,7 @@
     * [Add New Credential Store](settings/users/credential-store/add-new-credential-store.md)
     * [Edit Credential Store](settings/users/credential-store/edit-credential-store.md)
     * [Remove Credential Store](settings/users/credential-store/remove-credential-store.md)
+  * [Group Based AD Authentication](settings/users/group-based-ad-authentication.md)
 * [Devices](settings/devices/README.md)
   * [Server Operations](settings/devices/server-operations/README.md)
     * [Add New Server](settings/devices/server-operations/add-new-server.md)
@@ -217,18 +218,17 @@
   * [System Logs](settings/systems/system-logs.md)
   * [System Health](settings/systems/system-health.md)
   * [Advance Settings](settings/systems/advance-settings.md)
-* [Azure Active Directory Integration](settings/azure-active-directory-integration/README.md)
-  * [Role Based Authentication](settings/azure-active-directory-integration/role-based-authentication.md)
-  * [Group Based Authentication](settings/azure-active-directory-integration/group-based-authentication.md)
+* [Azure Active Directory Integration](settings/azure-active-directory-integration.md)
 
 ## Dashboard
 
-* [Main Page](virtual-metric-dashboard/main-page.md)
-* [Login](virtual-metric-dashboard/login.md)
-* [Layout and Common Functinalities](virtual-metric-dashboard/layout-and-common-functinalities.md)
-* [Add New Widget](virtual-metric-dashboard/add-new-widget.md)
-* [Edit Widget](virtual-metric-dashboard/edit-widget.md)
-* [Charts](virtual-metric-dashboard/charts.md)
+* [Main Page](dashboard/main-page.md)
+* [Login](dashboard/login.md)
+* [Layout and Common Functinalities](dashboard/layout-and-common-functinalities.md)
+* [Calculation of Recommendations](dashboard/calculation-of-recommendations.md)
+* [Add New Widget](dashboard/add-new-widget.md)
+* [Edit Widget](dashboard/edit-widget.md)
+* [Charts](dashboard/charts.md)
 
 ## Devices
 

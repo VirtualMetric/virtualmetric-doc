@@ -6,17 +6,17 @@ Click to Trigger on the left pane.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 On **Trigger Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (420).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (436).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

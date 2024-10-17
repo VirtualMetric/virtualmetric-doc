@@ -6,6 +6,6 @@ To test action go to **Notifications > Action**, you get the following screen wh
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (735).png" alt=""><figcaption></figcaption></figure>
 
 </div>

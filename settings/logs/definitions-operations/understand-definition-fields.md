@@ -2,13 +2,13 @@
 
 1\.      To view the Definitions, go to **Logs > Definitions**. You get the following screen:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (736).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (752).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Select type of the device.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

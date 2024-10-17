@@ -6,19 +6,19 @@ To create a new system user, you should go to Users in the Settings tab.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On User Management screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Enter group properties, then click **Submit** button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (360).png" alt="" width="304"><figcaption></figcaption></figure>
 
 </div>
 

@@ -6,7 +6,7 @@ The screen provides you with the capability to make bulk modifications to server
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (549).png" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (565).png" alt="" width="359"><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,14 +14,14 @@ The screen provides you with the capability to make bulk modifications to server
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 3. Set new server settings and then click Submit button to apply changes.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (551).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (567).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

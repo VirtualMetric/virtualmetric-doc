@@ -1,6 +1,6 @@
 # Download VirtualMetric
 
-You can download the latest publicly available VirtualMetric product software from our website. You will need a product key in order to activate your VirtualMetric setup. Then, One of our customer service representatives will contact you to deliver your product key.\
+You can download the latest publicly available VirtualMetric via contact with customer service representative. You will need a product key in order to activate your VirtualMetric setup. Then, one of our customer service representatives will contact you to deliver your product key.\
 \
 Updates are free to customers with an active maintenance contract. If you do not have an active maintenance contract, please contact with us. After your maintenance contract has expired, VirtualMetric will continue to work but you won't be able to get software updates.
 

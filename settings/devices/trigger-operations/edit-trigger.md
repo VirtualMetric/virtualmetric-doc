@@ -4,13 +4,13 @@
 
 2\.      To edit a trigger, go to **Devices > Triggers**, you get the following screen where you can manage all your triggers. Click **Edit** to edit the module.
 
-<figure><img src="../../../.gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Update all the required fields and then click the button **SUBMIT** to apply your changes.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (425).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (441).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 

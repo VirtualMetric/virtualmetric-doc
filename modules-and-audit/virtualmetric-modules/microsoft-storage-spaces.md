@@ -6,7 +6,7 @@ You can reach Storage Spaces module monitoring and reports via left menu.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

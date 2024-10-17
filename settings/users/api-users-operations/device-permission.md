@@ -4,13 +4,13 @@ If you create an API user account with User role, then you must assign device pe
 
 1\.      To edit device permissions, click on **Device Permissions** button.
 
-<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Select the **type** of device.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (313).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (329).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ If you create an API user account with User role, then you must assign device pe
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

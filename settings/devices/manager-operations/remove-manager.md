@@ -8,7 +8,7 @@ If you wish to stop monitoring a manager, you can remove the manager from Virtua
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ If you wish to stop monitoring a manager, you can remove the manager from Virtua
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (395).png" alt="" width="307"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (411).png" alt="" width="307"><figcaption></figcaption></figure>
 
 </div>
 

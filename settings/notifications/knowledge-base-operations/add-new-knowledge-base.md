@@ -6,19 +6,19 @@ Before creating Knowledge Base, you should create a new Knowledge Base entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **Knowledge Base Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (263).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (279).png" alt="" width="286"><figcaption></figcaption></figure>
 
 </div>
 

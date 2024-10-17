@@ -6,7 +6,7 @@ After configuring collector definitions, you can use Custom Bindings to assign t
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,19 +14,19 @@ After configuring collector definitions, you can use Custom Bindings to assign t
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (725).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (741).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 2\.      Click on Inventory Collector or stats collector button to modify one of the Device Bindings.
 
-<figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Choose the definitions you want from the definition list field, then click **">>"** to move it to the enabled definitions field and then click the **Submit** button. Now the selected definition will be added to that module. To **remove** a definition, click on the definition, and then click the **"<<"** button.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (275).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

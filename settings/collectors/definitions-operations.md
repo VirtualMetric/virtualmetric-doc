@@ -2,7 +2,7 @@
 
 Collector Definitions is the group of definitions which can be used to determine which information will be gathered from target servers, the frequency of these information and settings that VirtualMetric will use to collect data. You can enable and disable the group and change the frequency and settings of the definitions, so VirtualMetric Collector can use these definitions to collect the appropriate information from the target servers. Changing definition settings will be immediately applied to VirtualMetric Collectors.
 
-<figure><img src="../../.gitbook/assets/image (739).png" alt=""><figcaption><p><strong>VirtualMetric Collector Definitions Screen</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption><p><strong>VirtualMetric Collector Definitions Screen</strong></p></figcaption></figure>
 
 VirtualMetric contains built-in collector definitions. You **can not add custom definitions**, but you can modify existing ones to define which information you want to collect from target servers.
 
@@ -10,7 +10,7 @@ Firstly you need to select the **type** of **device.**
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (256).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 

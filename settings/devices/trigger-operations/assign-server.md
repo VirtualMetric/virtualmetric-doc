@@ -5,6 +5,6 @@ You can move Server, Clusters and Managers to the other VirtualMetric Triggers e
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (423).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (439).png" alt="" width="289"><figcaption></figcaption></figure>
 
 </div>

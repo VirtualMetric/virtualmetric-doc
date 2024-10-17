@@ -6,7 +6,7 @@ SMS settings can be configured from SMS Settings.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ SMS settings can be configured from SMS Settings.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (269).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

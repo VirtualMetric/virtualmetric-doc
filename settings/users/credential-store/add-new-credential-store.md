@@ -4,19 +4,19 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On User Management screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Select the action type and fill the other fields, then click **Submit**
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (328).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ Select Basic option from the dropdown menu. You get the following screen:&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (329).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (331).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (347).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (332).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (348).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (333).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (349).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,7 +76,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (334).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (350).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 
@@ -88,7 +88,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (335).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (351).png" alt="" width="291"><figcaption></figcaption></figure>
 
 </div>
 
@@ -100,7 +100,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (336).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (352).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,7 +112,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (337).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="288"><figcaption></figcaption></figure>
 
 </div>
 
@@ -126,7 +126,7 @@ _Refer to the following table to understand the fields in the above screen._&#x2
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (338).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (354).png" alt="" width="289"><figcaption></figcaption></figure>
 
 </div>
 

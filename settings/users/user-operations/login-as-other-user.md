@@ -6,7 +6,7 @@
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 

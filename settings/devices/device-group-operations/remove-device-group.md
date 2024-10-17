@@ -6,7 +6,7 @@ To remove a Device Group, you should remove Device Group entry on Device Groups 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ To remove a Device Group, you should remove Device Group entry on Device Groups 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="307"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="307"><figcaption></figcaption></figure>
 
 </div>
 

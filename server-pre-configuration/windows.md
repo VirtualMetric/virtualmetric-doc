@@ -135,7 +135,7 @@ If you use proxy configuration on Windows Server, you may need to add exception 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (123).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -143,7 +143,7 @@ If you use proxy configuration on Windows Server, you may need to add exception 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (124).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -188,7 +188,7 @@ klist purge -li 0x3e7
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -196,7 +196,7 @@ klist purge -li 0x3e7
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

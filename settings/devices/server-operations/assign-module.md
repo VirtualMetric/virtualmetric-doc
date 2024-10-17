@@ -6,7 +6,7 @@ After you add the server for monitoring, you can assign modules to enable extra 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ After you add the server for monitoring, you can assign modules to enable extra 
 
     <div align="left">
 
-    <figure><img src="../../../.gitbook/assets/image (526).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (542).png" alt="" width="375"><figcaption></figcaption></figure>
 
     </div>
 

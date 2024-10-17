@@ -4,7 +4,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (434).png" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (450).png" alt="" width="196"><figcaption></figcaption></figure>
 
 </div>
 
@@ -12,7 +12,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (435).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (451).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (436).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (452).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (437).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (453).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (438).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (454).png" alt="" width="316"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (439).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (455).png" alt="" width="316"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (440).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (456).png" alt="" width="316"><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (441).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (457).png" alt="" width="316"><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@ When you install VirtualMetric, you enter a user account to use for task schedul
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (458).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

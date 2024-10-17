@@ -6,7 +6,7 @@ You can reset custom changes on the device bindings. Reset button will be activa
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (772).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ You can reset custom changes on the device bindings. Reset button will be activa
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (754).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (770).png" alt="" width="302"><figcaption></figcaption></figure>
 
 </div>
 

@@ -54,7 +54,7 @@ We designed VirtualMetric to become a Firewall friendly monitoring solution. Man
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (186).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt="" width="343"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ We designed VirtualMetric to become a Firewall friendly monitoring solution. Man
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (185).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (201).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

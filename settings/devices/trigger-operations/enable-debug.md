@@ -4,7 +4,7 @@ In some cases, VirtualMetric support request from you to enable Trigger Debug. T
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -12,18 +12,18 @@ In some cases, VirtualMetric support request from you to enable Trigger Debug. T
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (445).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (461).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 2\.     Search for **Trigger** and click on **Edit** button for **VirtualMetric Trigger Debugging.**
 
-<figure><img src="../../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
 
 3\.     Select **Active** and click on **Submit** button to apply changes.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (447).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (463).png" alt="" width="303"><figcaption></figcaption></figure>
 
 </div>

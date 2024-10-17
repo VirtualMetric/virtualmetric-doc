@@ -6,19 +6,19 @@ The screen provides you with the capability to make bulk modifications to networ
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      After selecting the network devices, click the **Pencil** button to open the settings modal. This modal will allow you to make bulk modifications to the selected network device.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Set new cluster settings and then click **SUBMIT** button to apply changes.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (417).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (433).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 

@@ -29,7 +29,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,7 +37,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,7 +45,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (430).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (446).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -53,7 +53,7 @@ Please open Task Scheduler on VirtualMetric Standalone Server.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (433).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (449).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

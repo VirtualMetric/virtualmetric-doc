@@ -6,19 +6,19 @@ Before start monitoring ICMP, you should create a new ICMP entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **ICMP Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (581).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (582).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (598).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

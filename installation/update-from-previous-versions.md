@@ -16,7 +16,7 @@ If you run VirtualMetric version 1.1 or later, simply install the latest update 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

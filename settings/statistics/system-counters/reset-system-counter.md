@@ -6,7 +6,7 @@ You can reset custom changes on the system counter. Reset button will be activat
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,6 +14,6 @@ You can reset custom changes on the system counter. Reset button will be activat
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (207).png" alt="" width="302"><figcaption></figcaption></figure>
 
 </div>

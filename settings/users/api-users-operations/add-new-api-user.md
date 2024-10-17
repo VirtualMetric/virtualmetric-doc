@@ -6,7 +6,7 @@ To create a **new API user**, you should go to **API Users** under **Users** men
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ To create a **new API user**, you should go to **API Users** under **Users** men
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (356).png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (372).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
 

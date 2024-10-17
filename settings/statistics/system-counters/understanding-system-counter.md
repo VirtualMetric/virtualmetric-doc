@@ -2,13 +2,13 @@
 
 VirtualMetric provides complete visibility with its pre-configured more than 650 performance counters.
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 Select type of server and module.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ Select type of server and module.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ In the System Counter settings, you can enable or disable all alerting systems i
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ If you enable thresholds for a system counter, you should also set threshold lim
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (198).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (214).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@ If thresholds option is enabled, VirtualMetric uses notification thresholds to d
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

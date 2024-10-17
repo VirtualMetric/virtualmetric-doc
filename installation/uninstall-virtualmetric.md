@@ -6,7 +6,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ Uninstalling VirtualMetric is easy and works like other Windows-based applicatio
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ Uninstall application does not remove VirtualMetric Database for data security. 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ Uninstall application does not remove VirtualMetric Database for data security. 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ Uninstall application does not remove VirtualMetric Database for data security. 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (122).png" alt="" width="346"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt="" width="346"><figcaption></figcaption></figure>
 
 </div>
 

@@ -4,13 +4,13 @@ To update the workstation’s IP address or change the authentication method, yo
 
 1\.      To edit a server, go to **Devices > Workstation**, you get the following screen where you can manage all your workstations. Click **edit** to edit the workstation.
 
-<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Update all the required fields and then click the button **SUBMIT** to apply your changes.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (495).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (511).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 

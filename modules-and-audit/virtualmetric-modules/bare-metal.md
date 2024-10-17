@@ -312,7 +312,7 @@ Go to user properties and add groups into Member Of section:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="314"><figcaption></figcaption></figure>
 
 </div>
 
@@ -326,7 +326,7 @@ Type **y** and press **Enter** to continue.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -334,7 +334,7 @@ Add the user and select Read and Execute permissions. Click Submit to apply chan
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -342,7 +342,7 @@ PowerShell will ask you to restart WinRM service. Type y and press Enter to conf
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -358,7 +358,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\eventlog\Security
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="272"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="272"><figcaption></figcaption></figure>
 
 </div>
 
@@ -377,7 +377,7 @@ Right click on WMI Control and click Properties to open dialog.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -385,7 +385,7 @@ Go to Security tab, select CIMV2 and click Security button.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -393,7 +393,7 @@ Add your user account and select Allow permission for Enable Account and Remote 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -401,7 +401,7 @@ Select user and click Edit.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -409,7 +409,7 @@ Select This namespace and subnamespaces and click OK button.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -426,7 +426,7 @@ netsh advfirewall firewall set rule group="Remote Administration" new enable=yes
 
 Enable Remote Administration on Windows Firewall:
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 **Service Control Manager Configuration**
 
@@ -440,7 +440,7 @@ You will see default security descriptor of the Service Control Manager.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="510"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt="" width="510"><figcaption></figcaption></figure>
 
 </div>
 
@@ -459,7 +459,7 @@ And create the following key:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -473,7 +473,7 @@ sc sdset SCMANAGER D:(A;;CC;;;AU)(A;;CCLCRPRC;;;IU)(A;;CCLCRPRC;;;SU)(A;;CCLCRPW
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > eStreamer** then click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (286).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (302).png" alt="" width="296"><figcaption></figcaption></figure>
 
 </div>
 

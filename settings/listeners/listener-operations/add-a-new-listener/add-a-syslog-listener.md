@@ -2,13 +2,13 @@
 
 1\.      Go to **Listener > Syslog Listener** then, click the **Add (+)** button located in the upper right corner.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
 2\.      You will get the fields as follows.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (311).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (327).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 

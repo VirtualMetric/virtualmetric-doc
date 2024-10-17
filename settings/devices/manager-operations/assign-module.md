@@ -4,13 +4,13 @@ After adding a manager for monitoring, you can assign modules to enable extra fe
 
 1\.      To add a module, go to **Devices > Managers,** click **Modules** to edit the module.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Choose the module you want from the Modules field, then click **">>"** to move it to the Enabled Modules field and then click the Submit button. Now the module will be assigned to that server. To **remove** an enabled module, click on the module, and then click the **"<<"** button. &#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (386).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (402).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 

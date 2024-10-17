@@ -6,7 +6,7 @@ You can reset custom changes on the system log definitions. Reset button will be
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (733).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (749).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,6 +14,6 @@ You can reset custom changes on the system log definitions. Reset button will be
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (734).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (750).png" alt="" width="302"><figcaption></figcaption></figure>
 
 </div>

@@ -6,19 +6,19 @@ Before start monitoring IPAM, you should create a new IPAM entry.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 2\.      On **IPAM Management** screen, click **Add (+)** button on the right top section.
 
-<figure><img src="../../../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 3\.      You will get the fields as follows.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (589).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (605).png" alt="" width="292"><figcaption></figcaption></figure>
 
 </div>
 

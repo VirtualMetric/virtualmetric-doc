@@ -4,13 +4,13 @@ Definitions can be assign to **device bindings.**&#x20;
 
 1\.      To add a definition, go to **Logs > Module Defaults**,  select type of device. Click on buttons to **system definition or custom definition.**
 
-<figure><img src="../../../.gitbook/assets/image (755).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (771).png" alt=""><figcaption></figcaption></figure>
 
 2\.      Select a proper device type from **definition list**.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (751).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (767).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ Definitions can be assign to **device bindings.**&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (752).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (768).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 

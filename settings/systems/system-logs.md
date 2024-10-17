@@ -4,7 +4,7 @@ If you enable debug for Server, Clusters and Managers; VirtualMetric writes info
 
 **VirtualMetric System Logs Screen**
 
-<figure><img src="../../.gitbook/assets/image (757).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption></figcaption></figure>
 
 ## **Export Logs**
 
@@ -14,7 +14,7 @@ VirtualMetric support may request for you to export System Logs for product trou
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (760).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (776).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ VirtualMetric support may request for you to export System Logs for product trou
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (761).png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (777).png" alt="" width="304"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ VirtualMetric support may request for you to export System Logs for product trou
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (762).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (778).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ After sending system logs to VirtualMetric Support, you may want to clear system
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (765).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (781).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ After sending system logs to VirtualMetric Support, you may want to clear system
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (766).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (782).png" alt="" width="303"><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +59,7 @@ After sending system logs to VirtualMetric Support, you may want to clear system
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (767).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (783).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

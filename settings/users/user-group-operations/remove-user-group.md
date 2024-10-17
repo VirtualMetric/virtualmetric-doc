@@ -4,13 +4,13 @@ To **remove** a Group, you should remove Group entry on **Groups page.**
 
 1\.      To remove a user group, go to **Users > User Group,** click the **delete** button.
 
-<figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 2\.      From **popup** screen, **click** the **delete** button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="307"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="307"><figcaption></figcaption></figure>
 
 </div>
 
