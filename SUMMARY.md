@@ -21,8 +21,7 @@
 
 ## RELEASES
 
-* [Version 8.0.3](releases/version-8.0.3/README.md)
-  * [Release Notes](releases/version-8.0.3/release-notes.md)
+* [Version 8.0.3](releases/version-8.0.3.md)
 
 ## Server Pre-Configuration
 
