@@ -19,6 +19,11 @@
 * [Maintenance](installation/maintenance.md)
 * [Uninstall VirtualMetric](installation/uninstall-virtualmetric.md)
 
+## RELEASES
+
+* [Version 8.0.3](releases/version-8.0.3/README.md)
+  * [Release Notes](releases/version-8.0.3/release-notes.md)
+
 ## Server Pre-Configuration
 
 * [Windows](server-pre-configuration/windows.md)
@@ -250,8 +255,3 @@
   * [Microsoft Storage Spaces](modules-and-audit/virtualmetric-modules/microsoft-storage-spaces.md)
   * [Active Directory User Permissions](modules-and-audit/virtualmetric-modules/active-directory-user-permissions.md)
 * [Audit Configuration](modules-and-audit/audit-configuration.md)
-
-## RELEASES
-
-* [Version 8.0.3](releases/version-8.0.3/README.md)
-  * [Release Notes](releases/version-8.0.3/release-notes.md)
