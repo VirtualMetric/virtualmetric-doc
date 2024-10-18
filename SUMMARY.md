@@ -6,7 +6,7 @@
 * [Architecture](introduction/architecture.md)
 * [Product Security](introduction/product-security.md)
 * [Key Features](introduction/key-features.md)
-* [Supported Systems](introduction/supported-systems.md)
+* [Supported Systems and Services](introduction/supported-systems-and-services.md)
 * [Comparison](introduction/comparison.md)
 
 ## Installation

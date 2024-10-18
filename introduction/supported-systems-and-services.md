@@ -1,4 +1,4 @@
-# Supported Systems
+# Supported Systems and Services
 
 **VirtualMetric** supports the following operating systems, virtualization providers, protocols, and applications and services for monitoring and log collection.
 
@@ -38,4 +38,37 @@ VMWare:
 * Microsoft Exchange
 * Microsoft Active Directory
 * Microsoft SQL
+
+***
+
+In addition to the above, the following services, listeners, consumers, and endpoints are also available in **VirtualMetric** independent of the underlying platform.
+
+### Services
+
+* Locations
+* Web Sites
+* DNS
+* ICMP
+* IPAM
+* TCP
+* Database
+
+### Listeners
+
+* Syslog Listener
+* Flow Endpoints
+* eStreamer
+* TFTP Listener
+* TCP Listener
+* UDP Listener
+* HTTP Listener
+* SMTP Listener
+* SNMP Listener
+
+### Consumers
+
+* Redis Consumer
+* Kafka Consumer
+* RabbitMQ Consumer
+* NATS Consumer
 
