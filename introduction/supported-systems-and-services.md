@@ -32,7 +32,7 @@ VMWare:
 * VMWare: SOAP (HTTP / HTTPS)
 * Linux: SSH / SCP
 
-### Applications and Services
+### Applications
 
 * MicroSoft IIS
 * Microsoft Exchange
