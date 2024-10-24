@@ -160,7 +160,9 @@ http://localhost
 After loading the _VirtualMetric Dashboard_, you will see the login screen below.
 
 <div align="left">
+
 <figure><img src="../.gitbook/assets/SetupLoginScreen.png" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 You can log in using the username and password that you provided on Setup Wizard. After you type your **username** and **password**, click to **Login** button to log in.
