@@ -127,7 +127,7 @@ After filling the required fields, click **Next**.
 * Enter your Server IP Adress, and the your username and password you have configured previously.
 * After filling the fields, check that the database connection works by clicking the **Test Clickhouse Connection** button.
 
-When you are done, click **Next**.
+When you verify the connection, click **Next**.
 
 7\.      In this step, you will configure the destination location.
 
@@ -145,11 +145,13 @@ Review the location you have entered, and click **Next**.
 </div>
 
 
-9\.      When the process completes, the completion dialog appears. Click **Finish** to close the _Setup Wizard_.
+9\.      When the installation process completes without any errors, you should see the closing dialog.
 
 <div align="left">
 <figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-8.png"><figcaption></figcaption></figure>
 </div>
+
+Click **Finish** to exit the _Setup Wizard_.
 
 ***
 
@@ -177,4 +179,4 @@ When you log in for the first time, you will see a _Welcome Screen_.
 <figure><img class="screenshot" src="../.gitbook/assets/image (198).png"><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
 </div>
 
-Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate the product to start monitoring your data.
+Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate your product and start monitoring your data.
