@@ -67,17 +67,21 @@ Installing VirtualMetric is easy and works like any other Windows-based applicat
 <figure><img class="screenshot" src="../.gitbook/assets/UACPrompt.png"><figcaption></figcaption></figure>
 </div>
 
-2\.      You will see the Welcome Screen. Click **Next** to continue.
+2\.      You will see the Welcome Screen.
 
 <div align="left">
 <figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-1.png"><figcaption></figcaption></figure>
 </div>
 
-3\.      Accept the license agreement and click **Next**.
+Click **Next** to continue.
+
+3\.      You will see the _License Agreement_.
 
 <div align="left">
 <figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-2.png"><figcaption></figcaption></figure>
 </div>
+
+Accept the terms to continue and click **Next**.
 
 4\.      In this step, you will configure the settings required by VirtualMetric's API.
 
