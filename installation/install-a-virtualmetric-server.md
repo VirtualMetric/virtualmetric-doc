@@ -1,4 +1,4 @@
-# Installing The VirtualMetric Server
+# Install a VirtualMetric Server
 
 To install the VirtualMetric software, the following requirements must be met:
 
