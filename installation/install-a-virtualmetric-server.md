@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../.gitbook/styles.css">
+
 # Install a VirtualMetric Server
 
 To install the VirtualMetric software, the following requirements must be met:
@@ -62,25 +64,25 @@ Installing VirtualMetric is easy and works like any other Windows-based applicat
 1\.      Confirm the question about Windows User Account Control with **Yes** to allow the program to install. The VirtualMetric installation dialog will guide you through the process.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/UACPrompt.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/UACPrompt.png"><figcaption></figcaption></figure>
 </div>
 
 2\.      You will see the Welcome Screen. Click **Next** to continue.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-1.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-1.png"><figcaption></figcaption></figure>
 </div>
 
 3\.      Accept the license agreement and click **Next**.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-2.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-2.png"><figcaption></figcaption></figure>
 </div>
 
 4\.      In this step, you will configure the settings required by VirtualMetric's API.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-3.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-3.png"><figcaption></figcaption></figure>
 </div>
 
 * You can use either an **IP address** or **FQDN** for API connectivity. All servers will use this address for inventory and performance statistics collection. If you use FQDN, the domain should be resolved by all servers.
@@ -96,7 +98,7 @@ After filling the required fields, click **Next**.
 5\.      In this step, you will configure the _VirtualMetric Dashboard_.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-4.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-4.png"><figcaption></figcaption></figure>
 </div>
 
 * Setup will enter the VirtualMetric API address automatically. Clients will use this VirtualMetric API address when they connect to VirtualMetric Dashboard. If VirtualMetric API is in a private network, you should type the external VirtualMetric API address here. Otherwise, clients will not be able to login to the dashboard due to failure to reach the network.
@@ -115,7 +117,7 @@ After filling the required fields, click **Next**.
 6\.      In this step, you will configure the VirtualMetric Clickhouse Database.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-5.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-5.png"><figcaption></figcaption></figure>
 </div>
 
 * Enter your Server IP Adress, and the your username and password you have configured previously.
@@ -126,7 +128,7 @@ When you are done, click **Next**.
 7\.      In this step, you will configure the destination location.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-6.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-6.png"><figcaption></figcaption></figure>
 </div>
 
 Review the location you have entered, and click **Next**.
@@ -135,14 +137,14 @@ Review the location you have entered, and click **Next**.
 8\.      Click **Install** to start VirtualMetric installation. You can monitor the process with the progress bar.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-7.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-7.png"><figcaption></figcaption></figure>
 </div>
 
 
 9\.      When the process completes, the completion dialog appears. Click **Finish** to close the _Setup Wizard_.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupWizard-8.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupWizard-8.png"><figcaption></figcaption></figure>
 </div>
 
 ***
@@ -160,7 +162,7 @@ http://localhost
 After loading the _VirtualMetric Dashboard_, you will see the login screen below.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/SetupLoginScreen.png"><figcaption></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/SetupLoginScreen.png"><figcaption></figcaption></figure>
 </div>
 
 You can log in using the **username** and **password** that you have provided on Setup Wizard. After you have typed them, click the **Login** button to log in.
@@ -168,7 +170,7 @@ You can log in using the **username** and **password** that you have provided on
 When you log in for the first time, you will see a _Welcome Screen_.
 
 <div align="left">
-<figure><img src="../.gitbook/assets/image (198).png"><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
+<figure><img class="screenshot" src="../.gitbook/assets/image (198).png"><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
 </div>
 
 Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate the product to start monitoring your data.
