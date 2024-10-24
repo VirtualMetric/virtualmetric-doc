@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="../.gitbook/styles.css">
-
 # Install a VirtualMetric Server
+
+<link rel="stylesheet" href="../.gitbook/styles.css">
 
 To install the VirtualMetric software, the following requirements must be met:
 
