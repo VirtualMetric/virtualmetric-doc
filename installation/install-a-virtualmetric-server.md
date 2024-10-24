@@ -172,3 +172,4 @@ When you log in for the first time, you will see a _Welcome Screen_.
 </div>
 
 Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate the product to start monitoring your data.
+
