@@ -19,7 +19,7 @@
 * [Maintenance](installation/maintenance.md)
 * [Uninstall VirtualMetric](installation/uninstall-virtualmetric.md)
 
-## RELEASES
+## Releases
 
 * [Version 8.0.3](releases/version-8.0.3.md)
 

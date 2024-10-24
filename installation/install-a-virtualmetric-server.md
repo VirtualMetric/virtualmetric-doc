@@ -1,6 +1,6 @@
 # Install a VirtualMetric Server
 
-To install VirtualMetric software, you need to meet the following requirements:
+To install VirtualMetric software, the following requirements must be met:
 
 * A **virtual machine** with at least **4 vCPU** and **minimum 8 GB RAM** memory.
 * Windows Server **2019**, Windows Server 2022 or later.
@@ -54,113 +54,94 @@ Before installing VirtualMetric on Windows Server, please make sure that you hav
 
 ***
 
-## Running Setup Application
+## Running The Setup Application
 
-Installing VirtualMetric is easy and works like other Windows-based applications. To install VirtualMetric, run the installation setup program that you have downloaded.
+Installing VirtualMetric is easy and works like any other Windows-based application. To install VirtualMetric, run the setup program you have downloaded.
 
-1\.      Confirm the question of the Windows User Account Control with **Yes** to allow the program to install. The VirtualMetric installation dialog will guide you through the installation process.
+1\.      Confirm the question about Windows User Account Control with **Yes** to allow the program to install. The VirtualMetric installation dialog will guide you through the process.
 
 <div align="left">
-
 <figure><img src="../.gitbook/assets/UACPrompt.png" alt=""><figcaption></figcaption></figure>
-
 </div>
 
-2\.      You will see Welcome Screen. Please click **Next** to continue.
+2\.      You will see the Welcome Screen. Click **Next** to continue.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupWelcome (2).png" alt="" width="386"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-1.png" alt="" width="386"><figcaption></figcaption></figure>
 </div>
 
 3\.      Accept the license agreement and click **Next**.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupLicensePage.png" alt="" width="389"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-2.png" alt="" width="389"><figcaption></figcaption></figure>
 </div>
 
-4\.      In this step, you will configure VirtualMetric API settings. After filling the **required fields**, click N**ext**.
+4\.      In this step, you will configure the settings required by VirtualMetric's API.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupAPIPage.png" alt="" width="389"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-3.png" alt="" width="389"><figcaption></figcaption></figure>
 </div>
 
-* You can use either **IP address or FQDN** for VirtualMetric API connectivity. All servers will use this address for inventory and performance stats collection. So if you use FQDN, FQDN address should be resolved by all servers.
-* By default, VirtualMetric API listens TCP **8080**. You can change following port configuration on this step to use different port. After you specify port address, VirtualMetric will setup its REST API with this port configuration.
-* Setup will add firewall rule into Windows Firewall as part of the installation.
+* You can use either an **IP address** or **FQDN** for API connectivity. All servers will use this address for inventory and performance statistics collection. If you use FQDN, the domain should be resolved by all servers.
+* By default, VirtualMetric's API listens on TCP **8080**. You can change the configuration if you want to use a different one. VirtualMetric will configure its REST API with this port.
+* Setup will add a firewall rule to **Windows Firewall** as part of the installation.
 
 {% hint style="warning" %}
-VirtualMetric API address should be reachable by all servers. Please visit [Firewall Configuration](../introduction/product-security.md#required-firewall-ports) section to make sure.
+The VirtualMetric API address should be reachable by all servers. For details, please see the [Firewall Configuration](../introduction/product-security.md#required-firewall-ports) section.
 {% endhint %}
 
-5\.      In this step, you will configure VirtualMetric Dashboard settings. After filling the required fields, click **Next**.
+After filling the required fields, click **Next**.
 
-* Setup will enter VirtualMetric API address automatically. Clients will use this VirtualMetric API address when they connect to VirtualMetric Dashboard. If VirtualMetric API is in private network, you should type external address of VirtualMetric API here. Otherwise Clients will not be able to login dashboard due to unreachable network.
-* Setup will require you to type a user name and password. You will use this username and password to login dashboard for the first time. Password must be at least 6 characters long.
+5\.      In this step, you will configure the _VirtualMetric Dashboard_.
+
+<div align="left">
+<figure><img src="../.gitbook/assets/SetupWizard-4.png" alt=""><figcaption></figcaption></figure>
+</div>
+
+* Setup will enter the VirtualMetric API address automatically. Clients will use this VirtualMetric API address when they connect to VirtualMetric Dashboard. If VirtualMetric API is in a private network, you should type the external VirtualMetric API address here. Otherwise, clients will not be able to login to the dashboard due to failure to reach the network.
+* Setup will require you to type a username and a password, and confirm the password by retyping. You will use this username and password to login to the dashboard for the first time. The password must be at least 6 characters long.
 
 {% hint style="info" %}
-Please write down your user name and password. Setup will not remind you at the end.
+Do not forget to write down your user name and password. Setup will _not_ remind you these values after it completes.
 {% endhint %}
 
 {% hint style="warning" %}
-If you want to secure VirtualMetric Dashboard and VirtualMetric API connections with an SSL certificate, please visit [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
+If you want to secure the _VirtualMetric Dashboard_ and VirtualMetric API connections with an SSL certificate, please visit the [Setup SSL Certificate](maintenance.md#setup-ssl-certificate) section.
 {% endhint %}
 
+After filling the required fields, click **Next**.
+
+6\.      In this step, you will configure the VirtualMetric Clickhouse Database.
+
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupDashboard.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-5.png" alt="" width="386"><figcaption></figcaption></figure>
 </div>
 
-6\.      In this step, you can enable Active Directory authentication for VirtualMetric Trigger. After filling the required fields, click **Next**.
+* Enter your Server IP Adress, and the your username and password you have configured previously.
+* After filling the fields, check that the database connection works by clicking the **Test Clickhouse Connection** button.
 
-* VirtualMetric uses scheduled task jobs for VirtualMetric Trigger. This user should also have administrator privileges on the local server. If you provide a domain user with necessary privileges on target servers, VirtualMetric will use this user to monitor servers. Please see [User Permissions](../modules-and-audit/virtualmetric-modules/bare-metal.md#windows-user-permissions) section for required privileges.
-* If you want to use a domain user, please type its username as Domain\Username. User credentials will be used during setup to create VirtualMetric Trigger job and will not be stored anywhere.
+When you are done, click **Next**.
+
+7\.      In this step, you will configure the destination location.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupTrigger (1).png" alt="" width="383"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-6.png" alt="" width="389"><figcaption></figcaption></figure>
 </div>
 
-7\.      In this step, you will configure VirtualMetric Database settings. After filling the required fields, click **Next**.
+Review the location you have entered, and click **Next**.
 
-* You should enter your Microsoft SQL Server Instance information and User information in this step.
-* Our setup supports Windows and SQL Authentication methods.
+
+8\.      Click **Install** to start VirtualMetric installation. You can monitor the process with the progress bar.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupSQLPage.png" alt="" width="386"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-7.png" alt="" width="389"><figcaption></figcaption></figure>
 </div>
 
-8\.      Review **setup location** and click **Next**.
+
+9\.      When the process completes, the completion dialog appears. Click **Finish** to close Setup Wizard.
 
 <div align="left">
-
-<figure><img src="../.gitbook/assets/SetupLocation (1).png" alt="" width="389"><figcaption></figcaption></figure>
-
-</div>
-
-9\.      Click **Install** to start VirtualMetric installation.
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/SetupInstall.png" alt="" width="389"><figcaption></figcaption></figure>
-
-</div>
-
-10\.      Click **Finish** to close Setup Wizard.
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/SetupFinish.png" alt="" width="389"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/SetupWizard-8.png" alt="" width="389"><figcaption></figcaption></figure>
 </div>
 
 ***

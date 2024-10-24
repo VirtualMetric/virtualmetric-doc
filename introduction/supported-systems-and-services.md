@@ -2,7 +2,7 @@
 
 **VirtualMetric** supports the following operating systems, virtualization providers, protocols, and applications and services for monitoring and log collection.
 
-### Operating Systems
+## Operating Systems
 
 Linux:
 
@@ -19,20 +19,20 @@ Windows:
 * Windows Nano Server
 * Windows 7, 8, 10
 
-### Virtualization Providers
+## Virtualization Providers
 
 VMWare:
 
 * vSphere
 * Bare Metal
 
-### Protocols
+## Protocols
 
 * Windows: WS-Man (HTTP / HTTPS)
 * VMWare: SOAP (HTTP / HTTPS)
 * Linux: SSH / SCP
 
-### Applications
+## Applications
 
 * MicroSoft IIS
 * Microsoft Exchange
@@ -43,7 +43,7 @@ VMWare:
 
 In addition to the above, the following services, listeners, consumers, and endpoints are also available in **VirtualMetric** independent of the underlying platform.
 
-### Services
+## Services
 
 * Locations
 * Web Sites
@@ -53,7 +53,7 @@ In addition to the above, the following services, listeners, consumers, and endp
 * TCP
 * Database
 
-### Listeners
+## Listeners
 
 * Syslog Listener
 * Flow Endpoints
@@ -65,10 +65,9 @@ In addition to the above, the following services, listeners, consumers, and endp
 * SMTP Listener
 * SNMP Listener
 
-### Consumers
+## Consumers
 
 * Redis Consumer
 * Kafka Consumer
 * RabbitMQ Consumer
 * NATS Consumer
-

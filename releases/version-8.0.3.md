@@ -23,7 +23,7 @@
 
 * **Inventory Processing**: Streamlined logic for better status updates and logging.
 * **User Authentication**: Enhanced user authentication by integrating LDAP for Active Directory validation.
-* **Duplicate IP Handling**: A new parameter named ManagerNameSync has been added to prevent duplicates when adding SCVMM manager clusters. When enabled in the configuration, the system will check for cluster names across different triggers to avoid creating duplicates.
+* **Duplicate IP Handling**: A new parameter named _ManagerNameSync_ has been added to prevent duplicates when adding SCVMM manager clusters. When enabled in the configuration, the system will check for cluster names across different triggers to avoid creating duplicates.
 
 You can download the **full update** [here](https://virtualmetric.blob.core.windows.net/downloads/builds/release/v8.0.3/setup/virtualmetric-update-full.exe).
 

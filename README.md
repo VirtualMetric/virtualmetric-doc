@@ -4,7 +4,7 @@ VirtualMetric is real-time monitoring, change tracking, and inventory reporting 
 
 VirtualMetric also supports many hardware manufacturers to troubleshoot physical server issues such as hard disk, processor, memory etc. You can read [Bare Metal Hardware](server-pre-configuration/bare-metal-hardware.md) section to see supported hardware models.
 
-* VirtualMetric uses [ WS-Man](https://www.dmtf.org/standards/ws-man) protocol to connect and monitor **Windows** servers, allowing HTTP/HTTPS ports on firewall is enough to start monitoring.
-* VirtualMetric uses [ VMware vSphere Web Services](https://www.vmware.com/support/developer/vc-sdk/) to connect and monitor **VMware** **servers**. Allowing HTTP/HTTPS ports on firewall is enough to start monitoring.
+* VirtualMetric uses [WS-Man](https://www.dmtf.org/standards/ws-man) protocol to connect and monitor **Windows** servers, allowing HTTP/HTTPS ports on firewall is enough to start monitoring.
+* VirtualMetric uses [VMware vSphere Web Services](https://www.vmware.com/support/developer/vc-sdk/) to connect and monitor **VMware** **servers**. Allowing HTTP/HTTPS ports on firewall is enough to start monitoring.
 * VirtualMetric uses SSH protocol to connect and monitor **Linux** servers. Allowing SSH/HTTP/HTTPS ports on firewall is enough to start monitoring.
 * VirtualMetric uses SNMP protocol to connect and monitor network devices servers. Allowing SNMP/HTTP/HTTPS ports on firewall is enough to start monitoring.
