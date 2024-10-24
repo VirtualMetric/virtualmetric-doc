@@ -1,39 +1,40 @@
-# Install a VirtualMetric Server
+# Installing The VirtualMetric Server
 
-To install VirtualMetric software, the following requirements must be met:
+To install the VirtualMetric software, the following requirements must be met:
 
-* A **virtual machine** with at least **4 vCPU** and **minimum 8 GB RAM** memory.
-* Windows Server **2019**, Windows Server 2022 or later.
-* **100 GB Hard Disk Drive**
+* A **virtual machine** with at least **4 vCPU** and minimum **8 GB RAM** memory.
+* Windows Server **2019**, **2022**, or later.
+* **100 GB** Hard Disk Drive
 * Microsoft Edge or Google Chrome should be installed on this Windows machine. (Internet Explorer is not supported by VirtualMetric).
 
-To store VirtualMetric Database, you need to meet the following requirements:
+To store a _VirtualMetric Database_, you need to meet the following requirements:
 
-* A **virtual machine** with at least **8 vCPU** and **minimum 16 GB RAM** memory.
-* Ubuntu 22.04 or later / Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
+* A **virtual machine** with at least **8 vCPU** and minimum **16 GB RAM** memory.
+* Operating System: Ubuntu 22.04 or later / Red Hat Enterprise Linux (RHEL) 7 or later / Debian 9 or later
 * System Drive: **100 GB** Hard Disk Drive for OS and Database Software
 * Data Drive: **100 GB** Hard Disk Drive minimum for basic data retention
-*   On this Linux machine, the following CPU flags must be enabled for the Clickhouse database to operate properly:
 
-    * adx
-    * avx
-    * avx2
-    * bmi1
-    * bmi2
-    * clmul
-    * fma
-    * pclmulqdq
+On the Linux machine, the following CPU flags must be enabled for the _Clickhouse_ database to operate properly:
+
+* adx
+* avx
+* avx2
+* bmi1
+* bmi2
+* clmul
+* fma
+* pclmulqdq
 
     You can get the list of enabled CPU flags by running this command:\
-    ”sudo cat /proc/cpuinfo | grep flags | head -n 1 | tr ' ' '\n' | sort”
+    <code>sudo cat /proc/cpuinfo | grep flags | head -n 1 | tr ' ' '\n' | sort</code>
 
 {% hint style="info" %}
-When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
+When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but make sure that full resources are available to the virtual machine at any time.
 {% endhint %}
 
-## **Hardware Requirements**
+## Hardware Requirements
 
-Hardware requirements for VirtualMetric mainly depend on the modules, intervals and history ranges. The following values are provided as reference for minimum requirements of VirtualMetric.
+Hardware requirements for VirtualMetric mainly depend on the modules, intervals and history ranges. The following should serve as reference for the minimum requirements of VirtualMetric:
 
 * Dual Core CPU
 * 4096 MB Memory
@@ -45,7 +46,7 @@ When running VirtualMetric on a virtual machine, do not use dynamic resource all
 
 ***
 
-## **Software Requirements**
+## Software Requirements
 
 Before installing VirtualMetric on Windows Server, please make sure that you have following components on Windows Server:
 
@@ -156,20 +157,18 @@ If you are logged on VirtualMetric server, you can use following address.
 http://localhost
 ```
 
-After loading the VirtualMetric Dashboard, you will see following login screen. You can log in using the username and password that you provided on Setup Wizard. After you type your **username** and **password**, click to **Login** button to log in.
+After loading the _VirtualMetric Dashboard_, you will see the login screen below.
 
 <div align="left">
-
 <figure><img src="../.gitbook/assets/SetupLoginScreen.png" alt=""><figcaption></figcaption></figure>
-
 </div>
 
-When you log in for the first time, you will see Welcome Screen.
+You can log in using the username and password that you provided on Setup Wizard. After you type your **username** and **password**, click to **Login** button to log in.
+
+When you log in for the first time, you will see a _Welcome Screen_.
 
 <div align="left">
-
 <figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption><p>VirtualMetric Welcome Screen</p></figcaption></figure>
-
 </div>
 
-Please click **Go to Settings** button to navigate to Settings page. Now you can active the product to start monitoring.
+Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate the product to start monitoring your data.
