@@ -41,14 +41,14 @@ Hardware requirements for VirtualMetric mainly depend on the modules, intervals 
 * 100 GB Hard Disk Drive
 
 {% hint style="info" %}
-When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but please make sure that full resources are available to the virtual machine at any time.
+When running VirtualMetric on a virtual machine, do not use dynamic resource allocation, but make sure that full resources are available to the virtual machine at any time.
 {% endhint %}
 
 ***
 
 ## Software Requirements
 
-Before installing VirtualMetric on Windows Server, please make sure that you have following components on Windows Server:
+Before installing VirtualMetric on Windows Server, make sure that you have following components on Windows Server:
 
 * Microsoft PowerShell v4 or later
 * .NET Framework 2.0 or later
@@ -103,7 +103,7 @@ After filling the required fields, click **Next**.
 * Setup will require you to type a username and a password, and confirm the password by retyping. You will use this username and password to login to the dashboard for the first time. The password must be at least 6 characters long.
 
 {% hint style="info" %}
-Do not forget to write down your user name and password. Setup will _not_ remind you these values after it completes.
+Do not forget to write down your username and password. Setup will _not_ remind you these values after it completes.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -139,7 +139,7 @@ Review the location you have entered, and click **Next**.
 </div>
 
 
-9\.      When the process completes, the completion dialog appears. Click **Finish** to close Setup Wizard.
+9\.      When the process completes, the completion dialog appears. Click **Finish** to close the _Setup Wizard_.
 
 <div align="left">
 <figure><img src="../.gitbook/assets/SetupWizard-8.png"><figcaption></figcaption></figure>
@@ -149,9 +149,9 @@ Review the location you have entered, and click **Next**.
 
 ## First Time Login
 
-Once the VirtualMetric is installed, you can log in to the web interface In your browser and enter the **IP address** or **DNS name** of the computer where VirtualMetric is installed.\
+Once the VirtualMetric is installed, you can log in to the web interface in your browser and enter the **IP address** or **DNS name** of the computer where VirtualMetric is installed.\
 \
-If you are logged on VirtualMetric server, you can use following address.
+If you are logged in to the VirtualMetric server, you can use following address.
 
 ```markup
 http://localhost
@@ -163,7 +163,7 @@ After loading the _VirtualMetric Dashboard_, you will see the login screen below
 <figure><img src="../.gitbook/assets/SetupLoginScreen.png"><figcaption></figcaption></figure>
 </div>
 
-You can log in using the username and password that you provided on Setup Wizard. After you type your **username** and **password**, click to **Login** button to log in.
+You can log in using the **username** and **password** that you have provided on Setup Wizard. After you have typed them, click the **Login** button to log in.
 
 When you log in for the first time, you will see a _Welcome Screen_.
 
@@ -172,4 +172,3 @@ When you log in for the first time, you will see a _Welcome Screen_.
 </div>
 
 Click the **Go to Settings** button to navigate to the _Settings_ page. Here, you can activate the product to start monitoring your data.
-
